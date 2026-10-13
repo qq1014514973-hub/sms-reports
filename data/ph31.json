@@ -1,5 +1,9 @@
 {
   "site": "PH31",
   "report_time": "2026-10-13 17:45:00",
-  "persons": []
+  "persons": [
+    {"name": "小木", "send": 25130, "l1_first_deposit": 5, "l1_per10k": 2.0},
+    {"name": "阿木", "send": 23159, "l1_first_deposit": 8, "l1_per10k": 3.5},
+    {"name": "莹莹", "send": 225184, "l1_first_deposit": 0, "l1_per10k": 0}
+  ]
 }
