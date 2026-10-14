@@ -1,5 +1,12 @@
 {
   "site": "PH25",
-  "report_time": "",
-  "persons": []
+  "report_time": "2026-10-13 全天",
+  "persons": [
+    {"name": "阿正", "send": 234573, "l1_first_deposit": 79, "l1_per10k": 3.4},
+    {"name": "芋头", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "基挖", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "蛙声", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "阿伟", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "大陈", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0}
+  ]
 }
