@@ -1,6 +1,6 @@
 {
   "site": "PH09",
-  "report_time": "2026-10-14 19:07:00",
+  "report_time": "2026-10-14 19:37:14",
   "persons": [
     {
       "name": "小木老后台",
@@ -11,7 +11,7 @@
     {
       "name": "大陈老后台",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     },
     {
