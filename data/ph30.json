@@ -1,11 +1,17 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-14 19:37:43",
+  "report_time": "2026-10-14 20:07:26",
   "persons": [
     {
       "name": "大陈老后台",
       "send": 0,
       "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "杰森老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
