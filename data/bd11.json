@@ -1,5 +1,12 @@
 {
   "site": "BD11",
-  "report_time": "",
-  "persons": []
+  "report_time": "2026-10-14 17:09:02",
+  "persons": [
+    {
+      "name": "小刀",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    }
+  ]
 }
