@@ -1,7 +1,13 @@
 {
   "site": "PH21",
-  "report_time": "2026-10-14 17:09:41",
+  "report_time": "2026-10-14 17:37:11",
   "persons": [
+    {
+      "name": "阿璃老后台",
+      "send": 9024,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
     {
       "name": "阿跃",
       "send": 0,
