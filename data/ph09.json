@@ -1,5 +1,24 @@
 {
   "site": "PH09",
-  "report_time": "",
-  "persons": []
+  "report_time": "2026-10-14 17:09:29",
+  "persons": [
+    {
+      "name": "小木老后台",
+      "send": 0,
+      "l1_first_deposit": 3,
+      "l1_per10k": 0
+    },
+    {
+      "name": "大陈老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "阿炮老后台",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    }
+  ]
 }
