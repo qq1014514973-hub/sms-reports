@@ -1,12 +1,18 @@
 {
   "site": "MM01",
-  "report_time": "2026-10-13 18:30:21",
+  "report_time": "2026-10-14 17:09:12",
   "persons": [
     {
-      "name": "MM01测试",
-      "send": 12000,
-      "l1_first_deposit": 2,
-      "l1_per10k": 3.5
+      "name": "财财vb",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "红中",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
     }
   ]
 }
