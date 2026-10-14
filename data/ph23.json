@@ -1,0 +1,8 @@
+{
+  "site": "PH23",
+  "report_time": "2026-10-13 全天",
+  "persons": [
+    {"name": "阿正", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "张总", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0}
+  ]
+}
