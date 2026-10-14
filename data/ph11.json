@@ -1,5 +1,18 @@
 {
   "site": "PH11",
-  "report_time": "",
-  "persons": []
+  "report_time": "2026-10-14 17:09:32",
+  "persons": [
+    {
+      "name": "mark",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "红中",
+      "send": 0,
+      "l1_first_deposit": 4,
+      "l1_per10k": 0
+    }
+  ]
 }
