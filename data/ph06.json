@@ -1,0 +1,9 @@
+{
+  "site": "PH06",
+  "report_time": "2026-10-13 全天",
+  "persons": [
+    {"name": "芋头", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "基挖", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "蛙声", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0}
+  ]
+}
