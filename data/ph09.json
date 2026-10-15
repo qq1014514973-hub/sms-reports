@@ -3,6 +3,12 @@
   "report_time": "2026-10-15 20:03:15",
   "persons": [
     {
+      "name": "小木老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
       "name": "大陈老后台",
       "send": 0,
       "l1_first_deposit": 0,
