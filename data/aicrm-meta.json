@@ -1,7 +1,9 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:23:44.697521Z",
   "mode": "full",
+  "snapshot_status": "partial",
+  "details_status": "partial",
   "last_full_at": null,
   "coverage": {
     "instances_done": 34,
@@ -10,9 +12,46 @@
   "observed_total": 8232,
   "exported_total": 8232,
   "errors_count": 2,
+  "field_coverage": {
+    "plan_id": {
+      "present": 2094,
+      "total": 2095
+    },
+    "failure_reason": {
+      "present": 0,
+      "total": 2095
+    },
+    "creator_name": {
+      "present": 44,
+      "total": 2095
+    },
+    "phone_pack_title": {
+      "present": 44,
+      "total": 2095
+    },
+    "agent_account": {
+      "present": 62,
+      "total": 2095
+    },
+    "short_url": {
+      "present": 1360,
+      "total": 2095
+    },
+    "final_sms_content": {
+      "present": 2082,
+      "total": 2095
+    }
+  },
+  "details_missing_fields": [
+    "plan_id",
+    "failure_reason",
+    "creator_name",
+    "phone_pack_title",
+    "agent_account",
+    "short_url",
+    "final_sms_content"
+  ],
   "notes": "All 34 instance lists are present. Detail enrichment remains partial because the built-in CSV does not expose plan_id, failure_reason, phone_pack_title, agent_account, short_url or final_sms_content; its email-only creator column is not published as creator_name. Unavailable values are null, never inferred.",
-  "snapshot_status": "partial",
-  "details_status": "partial",
   "instances": [
     {
       "site": "BD02",
@@ -688,7 +727,7 @@
       "item_count": 142,
       "field_coverage": {
         "plan_id": {
-          "present": 71,
+          "present": 72,
           "total": 142
         },
         "failure_reason": {
@@ -696,7 +735,7 @@
           "total": 142
         },
         "creator_name": {
-          "present": 0,
+          "present": 1,
           "total": 142
         },
         "phone_pack_title": {
@@ -708,11 +747,11 @@
           "total": 142
         },
         "short_url": {
-          "present": 71,
+          "present": 72,
           "total": 142
         },
         "final_sms_content": {
-          "present": 71,
+          "present": 72,
           "total": 142
         }
       }
@@ -910,7 +949,7 @@
       "item_count": 310,
       "field_coverage": {
         "plan_id": {
-          "present": 260,
+          "present": 264,
           "total": 310
         },
         "failure_reason": {
@@ -918,7 +957,7 @@
           "total": 310
         },
         "creator_name": {
-          "present": 7,
+          "present": 17,
           "total": 310
         },
         "phone_pack_title": {
@@ -930,11 +969,11 @@
           "total": 310
         },
         "short_url": {
-          "present": 260,
+          "present": 264,
           "total": 310
         },
         "final_sms_content": {
-          "present": 260,
+          "present": 264,
           "total": 310
         }
       }
@@ -947,7 +986,7 @@
       "item_count": 1213,
       "field_coverage": {
         "plan_id": {
-          "present": 602,
+          "present": 603,
           "total": 1213
         },
         "failure_reason": {
@@ -955,7 +994,7 @@
           "total": 1213
         },
         "creator_name": {
-          "present": 3,
+          "present": 12,
           "total": 1213
         },
         "phone_pack_title": {
@@ -967,11 +1006,11 @@
           "total": 1213
         },
         "short_url": {
-          "present": 80,
+          "present": 81,
           "total": 1213
         },
         "final_sms_content": {
-          "present": 602,
+          "present": 603,
           "total": 1213
         }
       }
@@ -984,7 +1023,7 @@
       "item_count": 1663,
       "field_coverage": {
         "plan_id": {
-          "present": 481,
+          "present": 478,
           "total": 1663
         },
         "failure_reason": {
@@ -992,7 +1031,7 @@
           "total": 1663
         },
         "creator_name": {
-          "present": 0,
+          "present": 12,
           "total": 1663
         },
         "phone_pack_title": {
@@ -1004,11 +1043,11 @@
           "total": 1663
         },
         "short_url": {
-          "present": 459,
+          "present": 456,
           "total": 1663
         },
         "final_sms_content": {
-          "present": 481,
+          "present": 478,
           "total": 1663
         }
       }
@@ -1132,7 +1171,7 @@
       "item_count": 145,
       "field_coverage": {
         "plan_id": {
-          "present": 41,
+          "present": 45,
           "total": 145
         },
         "failure_reason": {
@@ -1152,11 +1191,11 @@
           "total": 145
         },
         "short_url": {
-          "present": 41,
+          "present": 45,
           "total": 145
         },
         "final_sms_content": {
-          "present": 41,
+          "present": 45,
           "total": 145
         }
       }

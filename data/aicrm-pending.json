@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T09:05:44.919575Z",
-  "snapshot_updated_at": "2026-10-15T09:05:35.446Z",
+  "generated_at": "2026-10-15T09:22:15.147780Z",
+  "snapshot_updated_at": "2026-10-15T09:22:05.420Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -12,10 +12,13 @@
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8,
+    9
   ],
-  "rows_read": 120,
-  "note": "Latest page unchanged at total 8232. Pages 4-6 read and compared with existing PH baseline: no new plan or list status change. Two old details still show 未找到. Full coverage remains partial.",
+  "rows_read": 180,
+  "note": "Latest page and pages 7-9 read at total 8232. All visible PH IDs and list statuses matched prior baseline; no new or changed PH plan. Two old details still show 未找到. Daily full and latest-priority window remain partial.",
   "pending_count": 726,
   "pending": [
     {
@@ -40,7 +43,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T09:05:35.446Z",
+      "last_attempt_at": "2026-10-15T09:22:05.420Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
@@ -67,7 +70,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T09:05:35.446Z",
+      "last_attempt_at": "2026-10-15T09:22:05.420Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
