@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T11:16:46.668274Z",
-  "snapshot_updated_at": "2026-10-15T11:16:41.676445Z",
+  "generated_at": "2026-10-15T11:30:44.390566Z",
+  "snapshot_updated_at": "2026-10-15T11:30:37.586Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -11,10 +11,11 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
-  "rows_read": 100,
-  "note": "Five BD02 plans changed from pending to sent; latest list and final SMS details verified. PH35 current plan unchanged and GSM-7; no new PH character anomaly. Current full CSV download did not complete, so 8237-row baseline remains stale versus 8238 UI total. Two prior pending details still show 未找到; full scope partial.",
+  "rows_read": 120,
+  "note": "No new plan or PH character change on visible latest page and page 6. Six PH plans on page 6 already checked. Two older pending details still show 未找到. Full CSV export timed out; 8237-row baseline stale against 8238 UI total.",
   "copy_count": 1375,
   "copies": [
     {
