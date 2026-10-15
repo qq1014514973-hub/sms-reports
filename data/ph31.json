@@ -1,60 +1,24 @@
 {
   "site": "PH31",
-  "report_time": "2026-10-15 19:03:06",
+  "report_time": "2026-10-14 全天",
   "persons": [
     {
-      "name": "大陈",
-      "send": 0,
-      "l1_first_deposit": 1,
-      "l1_per10k": 0
-    },
-    {
-      "name": "小K",
-      "send": 0,
-      "l1_first_deposit": 2,
-      "l1_per10k": 0
-    },
-    {
-      "name": "小刀",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "YOYO",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "泡泡",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "小木",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
       "name": "阿木",
-      "send": 0,
-      "l1_first_deposit": 8,
-      "l1_per10k": 0
+      "send": 103525,
+      "l1_first_deposit": 47,
+      "l1_per10k": 4.5
     },
     {
       "name": "莹莹",
-      "send": 75755,
-      "l1_first_deposit": 23,
-      "l1_per10k": 3
+      "send": 85390,
+      "l1_first_deposit": 31,
+      "l1_per10k": 3.6
     },
     {
-      "name": "威龙",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
+      "name": "小木",
+      "send": 27018,
+      "l1_first_deposit": 14,
+      "l1_per10k": 5.2
     }
   ]
 }
