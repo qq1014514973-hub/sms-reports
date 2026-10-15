@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T12:29:47.291763Z",
-  "snapshot_updated_at": "2026-10-15T12:29:42.678Z",
+  "generated_at": "2026-10-15T12:42:44.479011Z",
+  "snapshot_updated_at": "2026-10-15T12:42:39.497Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest list remains 8242. Complete 8242-row, 34-instance CSV validated and four uniquely matched PH created timestamps recovered. Two old pending detail pages still show 未找到; full detail scope remains partial.",
+  "note": "Latest page remains 8242 rows with no newly visible plans or changed PH statuses. Two old actionable detail URLs still show 未找到. The verified 8242-row CSV list across all 34 instances remains current; detail review remains partial.",
   "pending_count": 726,
   "pending": [
     {
@@ -35,7 +35,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T12:29:42.678Z",
+      "last_attempt_at": "2026-10-15T12:42:39.497Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
@@ -62,7 +62,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T12:29:42.678Z",
+      "last_attempt_at": "2026-10-15T12:42:39.497Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true

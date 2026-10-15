@@ -1,7 +1,7 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T12:29:52.037830Z",
-  "mode": "full",
+  "generated_at": "2026-10-15T12:42:44.479011Z",
+  "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
   "last_full_at": null,
@@ -51,7 +51,7 @@
     "short_url",
     "final_sms_content"
   ],
-  "notes": "All 34 instance lists are present. Detail enrichment remains partial because the built-in CSV does not expose plan_id, failure_reason, phone_pack_title, agent_account, short_url or final_sms_content; its email-only creator column is not published as creator_name. Unavailable values are null, never inferred.",
+  "notes": "Latest AICRM list shows 8242 plans; the last verified 34-instance CSV covers 8242. Current CSV list coverage is partial. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
   "instances": [
     {
       "site": "BD02",
