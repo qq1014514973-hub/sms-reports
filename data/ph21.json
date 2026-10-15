@@ -3,6 +3,12 @@
   "report_time": "2026-10-15 20:03:37",
   "persons": [
     {
+      "name": "阿璃老后台",
+      "send": 9024,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
       "name": "阿璃",
       "send": 0,
       "l1_first_deposit": 1,
