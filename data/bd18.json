@@ -1,11 +1,11 @@
 {
   "site": "BD18",
-  "report_time": "2026-10-15 23:02:36",
+  "report_time": "2026-10-15 23:32:46",
   "persons": [
     {
       "name": "阿老后台",
       "send": 0,
-      "l1_first_deposit": 6,
+      "l1_first_deposit": 7,
       "l1_per10k": 0
     }
   ]
