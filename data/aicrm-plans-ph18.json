@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:26:40.043362Z",
+  "generated_at": "2026-10-15T09:34:43.806058Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
   "site": "PH18",
   "observed_total": 244,
   "item_count": 244,
-  "detail_enriched_count": 244,
+  "detail_enriched_count": 241,
   "field_coverage": {
     "plan_id": {
       "present": 44,

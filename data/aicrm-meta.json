@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:26:40.043362Z",
+  "generated_at": "2026-10-15T09:34:45.002972Z",
   "mode": "full",
   "snapshot_status": "partial",
   "details_status": "partial",
@@ -11,7 +11,7 @@
   },
   "observed_total": 8232,
   "exported_total": 8232,
-  "errors_count": 2,
+  "errors_count": 0,
   "field_coverage": {
     "plan_id": {
       "present": 2094,
@@ -51,7 +51,7 @@
     "short_url",
     "final_sms_content"
   ],
-  "notes": "All 34 instance lists are present. Detail enrichment remains partial because the built-in CSV does not expose plan_id, failure_reason, phone_pack_title, agent_account, short_url or final_sms_content; its email-only creator column is not published as creator_name. Unavailable values are null, never inferred.",
+  "notes": "All 34 instance lists are verified by the built-in CSV. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
   "instances": [
     {
       "site": "BD02",
@@ -1311,5 +1311,6 @@
         }
       }
     }
-  ]
+  ],
+  "list_status": "complete"
 }

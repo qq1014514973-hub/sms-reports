@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T09:22:15.147780Z",
-  "snapshot_updated_at": "2026-10-15T09:22:05.420Z",
+  "generated_at": "2026-10-15T09:34:45.002972Z",
+  "snapshot_updated_at": "2026-10-15T09:33:11.732058Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -18,7 +18,7 @@
     9
   ],
   "rows_read": 180,
-  "note": "Latest page and pages 7-9 read at total 8232. All visible PH IDs and list statuses matched prior baseline; no new or changed PH plan. Two old details still show 未找到. Daily full and latest-priority window remain partial.",
+  "note": "Latest page unchanged at 8232. Complete built-in CSV verifies 34 instance lists. Required plan details remain incomplete, so full scan and snapshot stay partial.",
   "copy_count": 1369,
   "copies": [
     {
