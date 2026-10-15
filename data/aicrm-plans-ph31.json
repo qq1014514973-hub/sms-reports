@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T14:14:06.283604Z",
+  "generated_at": "2026-10-15T15:46:51.407469Z",
   "source": "authenticated AICRM CSV baseline and read-only plan observations",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -21,15 +21,15 @@
       "total": 1666
     },
     "creator_name": {
-      "present": 17,
+      "present": 18,
       "total": 1666
     },
     "phone_pack_title": {
-      "present": 17,
+      "present": 18,
       "total": 1666
     },
     "agent_account": {
-      "present": 22,
+      "present": 23,
       "total": 1666
     },
     "short_url": {
@@ -1276,14 +1276,14 @@
       "created_at": "2026-10-10T08:15:36.797Z",
       "status": "待发送",
       "launch_status": "已启动",
-      "planned_at": null,
+      "planned_at": "2026/10/11 04:00:00",
       "sent_at": null,
       "completed_sent_at": "—",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 22,
+      "creator_name": "小木- 南昌组",
+      "phone_pack_title": "9.29支付料 22/22（204 条）",
+      "agent_account": "agmtydbkbu5b1427e003",
       "short_url": "https://sw.run/TwLS-",
       "final_sms_content": "Ito na pagkakataon! Bug ngayon sa Super Ace, laging sumasab0g. Claim 30 SP1NS! Pasok na: https://sw.run/TwLS-",
       "encoding": "GSM-7",
