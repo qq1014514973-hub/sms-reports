@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T12:01:25.884387Z",
-  "snapshot_updated_at": "2026-10-15T12:01:21.098Z",
+  "generated_at": "2026-10-15T12:17:10.900124Z",
+  "snapshot_updated_at": "2026-10-15T12:17:00.198Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8241,
+  "observed_campaign_total": 8242,
   "pages_read": [
     1
   ],
   "rows_read": 20,
-  "note": "Three new PH31 plans have generated final SMS, all GSM-7 one segment. Total rose to 8241, so full pagination restarted. Full CSV download failed again; previous 8237-row baseline retained. Two old details still show 未找到.",
-  "copy_count": 1378,
+  "note": "One new PH33 plan final SMS is GSM-7 one segment. Total rose from 8241 to 8242 during scan; only page 1 is valid for new total. Full CSV timed out; prior 8237-row baseline retained. Two old details still show 未找到.",
+  "copy_count": 1379,
   "copies": [
     {
       "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
@@ -3964,6 +3964,29 @@
           "plan_id": "4d7ea3f3-6182-44d6-938f-edb6c3db87b0",
           "title": "BB 1-8（批次）",
           "site": "PH35"
+        }
+      ]
+    },
+    {
+      "text": "A mysterious, exclusive gift has arrived. Log in to your dedicated account to claim it. https://lucky969.com/aadbwj",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH33"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "46a45ce3-1828-4d50-9aa3-e19c2e1dc911",
+          "title": "CC 1-20（批次）",
+          "site": "PH33"
         }
       ]
     },
