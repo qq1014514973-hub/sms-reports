@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:17:42.738303Z",
+  "generated_at": "2026-10-15T07:31:36.512280Z",
   "mode": "full",
   "last_full_at": null,
   "coverage": {
@@ -9,5 +9,5 @@
   "observed_total": 8224,
   "exported_total": 2094,
   "errors_count": 2,
-  "notes": "Latest page 1 unchanged. Daily page 9 covered 16 previously checked GSM-7 copies and 2 expected short-link placeholders. Two older details still display 未找到. Pages 10-412 and 34 instances remain."
+  "notes": "Latest page 1 retained the same 11 PH plan IDs. Daily page 10 covered 6 unchanged GSM-7 copies and 2 expected short-link placeholders. Two older details still display 未找到. Pages 11-412 and 34 instances remain."
 }
