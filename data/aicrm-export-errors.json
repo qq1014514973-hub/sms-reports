@@ -1,12 +1,12 @@
 [
   {
-    "at": "2026-10-15T08:36:19.465Z",
+    "at": "2026-10-15T08:46:47.240Z",
     "what": "campaign_detail_final_sms",
     "instance": "PH35",
     "error": "Detail page shows 未找到 for pending plan fd6edf84-13dd-4940-be0e-af662a5f15a0"
   },
   {
-    "at": "2026-10-15T08:36:19.465Z",
+    "at": "2026-10-15T08:46:47.240Z",
     "what": "campaign_detail_final_sms",
     "instance": "PH31",
     "error": "Detail page shows 未找到 for pending plan e4314b8e-293e-438d-8f60-21e1cec9dc72"
