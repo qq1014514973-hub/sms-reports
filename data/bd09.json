@@ -1,7 +1,13 @@
 {
   "site": "BD09",
-  "report_time": "2026-10-15 20:32:25",
+  "report_time": "2026-10-15 21:01:31",
   "persons": [
+    {
+      "name": "眼镜",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
     {
       "name": "小K",
       "send": 0,
