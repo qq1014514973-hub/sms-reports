@@ -1,6 +1,6 @@
 {
   "site": "PH31",
-  "report_time": "2026-10-15 21:33:56",
+  "report_time": "2026-10-15 22:08:03",
   "persons": [
     {
       "name": "大陈",
@@ -41,7 +41,7 @@
     {
       "name": "阿木",
       "send": 0,
-      "l1_first_deposit": 8,
+      "l1_first_deposit": 9,
       "l1_per10k": 0
     },
     {
