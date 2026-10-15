@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:45:50.173691Z",
+  "generated_at": "2026-10-15T07:02:08.728385Z",
   "mode": "full",
   "last_full_at": null,
   "coverage": {
@@ -9,5 +9,5 @@
   "observed_total": 8224,
   "exported_total": 2094,
   "errors_count": 2,
-  "notes": "Latest page 1 unchanged. Daily full-scan page 7 covered 5 PH final SMS texts, all GSM-7, at stable total 8224. Two older details still show 未找到 and remain pending. Pages 8-412 and 34 instances remain."
+  "notes": "Latest page 1 unchanged. Daily full-scan page 8 covered 11 PH final SMS texts: 8 GSM-7 and 3 expected short-link placeholders, with no new or recovered character anomaly. Two older details still show 未找到. Pages 9-412 and 34 instances remain."
 }
