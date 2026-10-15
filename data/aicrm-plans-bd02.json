@@ -1,44 +1,44 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:34:43.806058Z",
+  "generated_at": "2026-10-15T10:34:28.372389Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
   "details_status": "partial",
   "site": "BD02",
-  "observed_total": 693,
-  "item_count": 693,
-  "detail_enriched_count": 693,
+  "observed_total": 698,
+  "item_count": 698,
+  "detail_enriched_count": 5,
   "field_coverage": {
     "plan_id": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     },
     "failure_reason": {
       "present": 0,
-      "total": 693
+      "total": 698
     },
     "creator_name": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     },
     "phone_pack_title": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     },
     "agent_account": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     },
     "short_url": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     },
     "final_sms_content": {
-      "present": 0,
-      "total": 693
+      "present": 5,
+      "total": 698
     }
   },
   "details_missing_fields": [
@@ -52,6 +52,126 @@
   ],
   "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
   "items": [
+    {
+      "plan_id": "b7aea383-3846-49d7-8160-9c414dff270f",
+      "title": "20261015-BD02-小刀 - 广告组-10000-H3SU",
+      "site": "BD02",
+      "created_at": "2026-10-15T10:21:05.438Z",
+      "status": "待发送",
+      "launch_status": "待启动",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "系统",
+      "phone_pack_title": "bd_backfill_2026-07-23_BD_N20000_part06of18_jack专用 - Grameenphone 2/2（10,000 条）",
+      "agent_account": "agmv9e1yj07d6763f001",
+      "short_url": "https://ln.run/GjZyJ",
+      "final_sms_content": "রেজিস্ট্রেশনেই ১০০% বোনাস, পান ৳২০০–৳২,০০০! https://ln.run/GjZyJ",
+      "encoding": "UCS-2",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "0dc7710f-5b03-4f9a-aca6-c0ccfa91d65d",
+      "title": "20261015-BD02-小刀 - 广告组-10000-D519",
+      "site": "BD02",
+      "created_at": "2026-10-15T10:20:53.632Z",
+      "status": "待发送",
+      "launch_status": "待启动",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "系统",
+      "phone_pack_title": "bd_backfill_2026-07-23_BD_N20000_part06of18_jack专用 - Grameenphone 1/2（10,000 条）",
+      "agent_account": "agmv9dt1k9df14927001",
+      "short_url": "https://ln.run/w0Tip",
+      "final_sms_content": "রেজিস্ট্রেশনেই ১০০% বোনাস, পান ৳২০০–৳২,০০০! https://ln.run/w0Tip",
+      "encoding": "UCS-2",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "915cfb87-3cfa-4db6-8e5a-b733f90196e2",
+      "title": "20261015-BD02-小刀 - 广告组-10000-V91V",
+      "site": "BD02",
+      "created_at": "2026-10-15T10:14:05.831Z",
+      "status": "待发送",
+      "launch_status": "待启动",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "系统",
+      "phone_pack_title": "bd_backfill_2026-07-23_BD_N20000_part07of18_jack专用 - Grameenphone 2/2（10,000 条）",
+      "agent_account": "agmv9dsyxf4b6f978001",
+      "short_url": "https://ln.run/lbD5q",
+      "final_sms_content": "রেজিস্ট্রেশনেই ১০০% বোনাস, পান ৳২০০–৳২,০০০! https://ln.run/lbD5q",
+      "encoding": "UCS-2",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "1b7bf59b-cd85-4bb1-b5bc-93f80d33b850",
+      "title": "20261015-BD02-小刀 - 广告组-10000-V5M7",
+      "site": "BD02",
+      "created_at": "2026-10-15T10:14:02.404Z",
+      "status": "待发送",
+      "launch_status": "待启动",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "系统",
+      "phone_pack_title": "bd_backfill_2026-07-23_BD_N20000_part07of18_jack专用 - Grameenphone 1/2（10,000 条）",
+      "agent_account": "agmv9dswawd541b04001",
+      "short_url": "https://ln.run/ZqEyp",
+      "final_sms_content": "রেজিস্ট্রেশনেই ১০০% বোনাস, পান ৳২০০–৳২,০০০! https://ln.run/ZqEyp",
+      "encoding": "UCS-2",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "70440bbc-a4f8-42e2-844f-d8d5c90585af",
+      "title": "20261015-BD02-小刀 - 广告组-10000-Z5PP",
+      "site": "BD02",
+      "created_at": "2026-10-15T10:13:59.745Z",
+      "status": "待发送",
+      "launch_status": "待启动",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "系统",
+      "phone_pack_title": "bd_backfill_2026-07-23_BD_N20000_part08of18_jack专用 - Grameenphone 2/2（10,000 条）",
+      "agent_account": "agmv9dstliee4aad8001",
+      "short_url": "https://ln.run/EJvsl",
+      "final_sms_content": "রেজিস্ট্রেশনেই ১০০% বোনাস, পান ৳২০০–৳২,০০০! https://ln.run/EJvsl",
+      "encoding": "UCS-2",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
     {
       "plan_id": null,
       "title": "20261015-BD02-小刀 - 广告组-10000-P9OS",

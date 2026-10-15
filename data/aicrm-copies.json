@@ -1,24 +1,16 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T10:17:11.743228Z",
-  "snapshot_updated_at": "2026-10-15T10:17:03.219084Z",
+  "generated_at": "2026-10-15T10:34:38.952769Z",
+  "snapshot_updated_at": "2026-10-15T10:34:28.372389Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8232,
+  "observed_campaign_total": 8237,
   "pages_read": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
+    1
   ],
-  "rows_read": 180,
-  "note": "Latest page total remained 8232; six PH final texts matched baseline and passed GSM-7. Two old pending details still show 未找到. Daily CSV list of 34 instances is complete; detail coverage and latest 500 remain partial.",
+  "rows_read": 20,
+  "note": "Full CSV list verified 8237 rows/34 instances. Five new BD02 plans were detail-enriched; Bengali content is UCS-2 as expected. Four PH IDs on latest page are existing. Two old PH pending details still show 未找到. Full detail coverage and latest priority 500 remain partial.",
   "copy_count": 1369,
   "copies": [
     {

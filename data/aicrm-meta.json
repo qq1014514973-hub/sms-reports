@@ -1,7 +1,7 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T10:17:11.743228Z",
-  "mode": "incremental",
+  "generated_at": "2026-10-15T10:34:38.952769Z",
+  "mode": "full",
   "snapshot_status": "partial",
   "details_status": "partial",
   "last_full_at": null,
@@ -9,8 +9,8 @@
     "instances_done": 34,
     "instances_total": 34
   },
-  "observed_total": 8232,
-  "exported_total": 8232,
+  "observed_total": 8237,
+  "exported_total": 8237,
   "errors_count": 2,
   "field_coverage": {
     "plan_id": {
@@ -58,35 +58,35 @@
       "file": "aicrm-plans-bd02.json",
       "list_status": "complete",
       "details_status": "partial",
-      "item_count": 693,
+      "item_count": 698,
       "field_coverage": {
         "plan_id": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         },
         "failure_reason": {
           "present": 0,
-          "total": 693
+          "total": 698
         },
         "creator_name": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         },
         "phone_pack_title": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         },
         "agent_account": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         },
         "short_url": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         },
         "final_sms_content": {
-          "present": 0,
-          "total": 693
+          "present": 5,
+          "total": 698
         }
       }
     },
