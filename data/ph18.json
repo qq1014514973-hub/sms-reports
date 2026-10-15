@@ -1,11 +1,23 @@
 {
   "site": "PH18",
-  "report_time": "2026-10-15 01:03:13",
+  "report_time": "2026-10-15 15:34:00",
   "persons": [
     {
       "name": "YOYO老后台",
       "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "jeff老后台",
+      "send": 0,
       "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "莹莹老后台",
+      "send": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
