@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T07:31:36.512280Z",
-  "snapshot_updated_at": "2026-10-15T07:31:25.017Z",
+  "generated_at": "2026-10-15T07:45:48.995593Z",
+  "snapshot_updated_at": "2026-10-15T07:45:40.170Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -16,10 +16,11 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
-  "rows_read": 200,
-  "note": "Latest page 1 retained the same 11 PH plan IDs. Daily page 10 covered 6 unchanged GSM-7 copies and 2 expected short-link placeholders. Two older details still display 未找到. Pages 11-412 and 34 instances remain.",
+  "rows_read": 220,
+  "note": "Latest page 1 retained the same 11 PH plan IDs and list statuses. Daily page 11 covered 6 unchanged GSM-7 copies and 2 expected short-link placeholders. Two older details still display 未找到. Pages 12-412 and 34 instances remain.",
   "copy_count": 1368,
   "copies": [
     {
