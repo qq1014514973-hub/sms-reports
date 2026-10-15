@@ -1,6 +1,6 @@
 {
   "site": "PH21",
-  "report_time": "2026-10-15 16:07:12",
+  "report_time": "2026-10-15 18:33:15",
   "persons": [
     {
       "name": "阿璃老后台",
@@ -11,7 +11,7 @@
     {
       "name": "阿璃",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
