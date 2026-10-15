@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T13:14:46.748141Z",
-  "snapshot_updated_at": "2026-10-15T13:14:41.199Z",
+  "generated_at": "2026-10-15T13:28:47.793621Z",
+  "snapshot_updated_at": "2026-10-15T13:28:42.309Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest list remains 8242. Three existing GSM-7 short-link placeholders were reconfirmed and retain retryRequired=false; three unique CSV creation times were reconciled. Page 2 was only partly visible. Two actionable historical details still show 未找到; full detail scope remains partial.",
+  "note": "Latest list total remains 8242 and visible newest PH rows are unchanged. First visible page-2 rows are existing PH30 short-link placeholders. Two actionable historical detail pages still show 未找到. No SMS copy could be newly verified this round; full detail scope remains partial.",
   "pending_count": 726,
   "pending": [
     {
@@ -35,7 +35,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T13:14:41.199Z",
+      "last_attempt_at": "2026-10-15T13:28:42.309Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
@@ -62,7 +62,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T13:14:41.199Z",
+      "last_attempt_at": "2026-10-15T13:28:42.309Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
