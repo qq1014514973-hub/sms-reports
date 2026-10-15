@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T13:45:16.977835Z",
+  "generated_at": "2026-10-15T13:59:55.603240Z",
   "source": "authenticated AICRM CSV baseline and read-only plan observations",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -21,15 +21,15 @@
       "total": 310
     },
     "creator_name": {
-      "present": 22,
+      "present": 24,
       "total": 310
     },
     "phone_pack_title": {
-      "present": 22,
+      "present": 24,
       "total": 310
     },
     "agent_account": {
-      "present": 38,
+      "present": 40,
       "total": 310
     },
     "short_url": {
@@ -492,13 +492,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/15 12:38:45",
       "completed_sent_at": "2026/10/15 12:38:45",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (16) - Globe 4/21（5,000 条）",
+      "agent_account": "agmv91qx6ceb12437001",
       "short_url": "https://pinoygo.run/n7od",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://pinoygo.run/n7od",
       "encoding": "GSM-7",
@@ -516,13 +516,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/15 12:36:52",
       "completed_sent_at": "2026/10/15 12:36:52",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (16) - Globe 1/21（5,000 条）",
+      "agent_account": "agmv91lvj98a4d095001",
       "short_url": "https://pinoypro.run/oy5t",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://pinoypro.run/oy5t",
       "encoding": "GSM-7",
