@@ -3,6 +3,18 @@
   "report_time": "2026-10-15 20:02:18",
   "persons": [
     {
+      "name": "芋头",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "小刀老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
       "name": "小刀",
       "send": 125009,
       "l1_first_deposit": 47,
