@@ -1,23 +1,11 @@
 {
   "site": "BD09",
-  "report_time": "2026-10-14 23:32:26",
+  "report_time": "2026-10-15 01:02:03",
   "persons": [
-    {
-      "name": "阿炮",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
     {
       "name": "小K",
       "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "小刀",
-      "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
