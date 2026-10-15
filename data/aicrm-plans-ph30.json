@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T12:29:52.037830Z",
-  "source": "authenticated AICRM built-in full CSV export",
+  "generated_at": "2026-10-15T14:29:34.731948Z",
+  "source": "authenticated AICRM CSV baseline and read-only plan observations",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
@@ -21,15 +21,15 @@
       "total": 1213
     },
     "creator_name": {
-      "present": 12,
+      "present": 14,
       "total": 1213
     },
     "phone_pack_title": {
-      "present": 12,
+      "present": 14,
       "total": 1213
     },
     "agent_account": {
-      "present": 11,
+      "present": 13,
       "total": 1213
     },
     "short_url": {
@@ -228,13 +228,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/14 13:14:51",
       "completed_sent_at": "2026/10/14 13:18:36",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 10,
+      "creator_name": "威龙",
+      "phone_pack_title": "复用万转数据+Globe 68/513（5,000 条）",
+      "agent_account": "weiqlzxoxc006",
       "short_url": "https://lucky969.com/n2uet2",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://lucky969.com/n2uet2",
       "encoding": "GSM-7",
@@ -252,13 +252,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/14 13:11:22",
       "completed_sent_at": "2026/10/14 13:13:36",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 10,
+      "creator_name": "威龙",
+      "phone_pack_title": "10.9复用万转数据+Globe 16/160（5,000 条）",
+      "agent_account": "weiqlzxoxc001",
       "short_url": "https://mmkbest1.com/p3gp8y",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://mmkbest1.com/p3gp8y",
       "encoding": "GSM-7",

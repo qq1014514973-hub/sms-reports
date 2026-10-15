@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T14:14:02.287563Z",
-  "snapshot_updated_at": "2026-10-15T14:13:57.080Z",
+  "generated_at": "2026-10-15T14:29:29.288601Z",
+  "snapshot_updated_at": "2026-10-15T14:29:16.125Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest total remains 8242. Two previously checked PH31 final SMS copies remain GSM-7, one segment. Two actionable historical details still show 未找到. Page and detail coverage remain partial.",
+  "note": "Latest total remains 8242. Two previously checked PH30 final SMS copies remain GSM-7, one segment. Two actionable historical details still show 未找到. Page and detail coverage remain partial.",
   "item_count": 2105,
   "items": [
     {
@@ -501,6 +501,54 @@
       "agent_account": "agmv7uwncead10e5c001",
       "short_url": "https://3go.run/y6wa",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://3go.run/y6wa",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "e58cd29e-8c67-4bfe-91ec-b04478099c6d",
+      "title": "20261014-PH30-威龙-5000-M992（批次）",
+      "site": "PH30",
+      "created_at": "2026-10-14T05:08:41.668Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/14 13:14:51",
+      "completed_sent_at": "2026/10/14 13:18:36",
+      "failure_reason": null,
+      "batch_task_count": 10,
+      "creator_name": "威龙",
+      "phone_pack_title": "复用万转数据+Globe 68/513（5,000 条）",
+      "agent_account": "weiqlzxoxc006",
+      "short_url": "https://lucky969.com/n2uet2",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://lucky969.com/n2uet2",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "f643a709-9af6-4244-8a4a-56b925800397",
+      "title": "20261014-PH30-威龙-5000-S0IK（批次）",
+      "site": "PH30",
+      "created_at": "2026-10-14T05:05:48.083Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/14 13:11:22",
+      "completed_sent_at": "2026/10/14 13:13:36",
+      "failure_reason": null,
+      "batch_task_count": 10,
+      "creator_name": "威龙",
+      "phone_pack_title": "10.9复用万转数据+Globe 16/160（5,000 条）",
+      "agent_account": "weiqlzxoxc001",
+      "short_url": "https://mmkbest1.com/p3gp8y",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://mmkbest1.com/p3gp8y",
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
@@ -22077,30 +22125,6 @@
       ]
     },
     {
-      "plan_id": "f643a709-9af6-4244-8a4a-56b925800397",
-      "title": "20261014-PH30-威龙-5000-S0IK（批次）",
-      "site": "PH30",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": null,
-      "completed_sent_at": "2026/10/14 13:13:36",
-      "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
-      "short_url": "https://mmkbest1.com/p3gp8y",
-      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://mmkbest1.com/p3gp8y",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "checked"
-      ]
-    },
-    {
       "plan_id": "6817304d-e47a-40c6-8607-8e6187574d20",
       "title": "20261014-PH30-威龙-5000-O613（批次）",
       "site": "PH30",
@@ -22117,30 +22141,6 @@
       "agent_account": null,
       "short_url": "https://ygn9.run/jmhaux",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://ygn9.run/jmhaux",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "checked"
-      ]
-    },
-    {
-      "plan_id": "e58cd29e-8c67-4bfe-91ec-b04478099c6d",
-      "title": "20261014-PH30-威龙-5000-M992（批次）",
-      "site": "PH30",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": null,
-      "completed_sent_at": "2026/10/14 13:18:36",
-      "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
-      "short_url": "https://lucky969.com/n2uet2",
-      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://lucky969.com/n2uet2",
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
