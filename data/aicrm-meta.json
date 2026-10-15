@@ -1,7 +1,7 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T10:34:38.952769Z",
-  "mode": "full",
+  "generated_at": "2026-10-15T10:50:10.583013Z",
+  "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
   "last_full_at": null,
@@ -9,37 +9,37 @@
     "instances_done": 34,
     "instances_total": 34
   },
-  "observed_total": 8237,
+  "observed_total": 8238,
   "exported_total": 8237,
-  "errors_count": 2,
+  "errors_count": 3,
   "field_coverage": {
     "plan_id": {
-      "present": 2094,
-      "total": 2095
+      "present": 2095,
+      "total": 2096
     },
     "failure_reason": {
       "present": 0,
-      "total": 2095
+      "total": 2096
     },
     "creator_name": {
-      "present": 44,
-      "total": 2095
+      "present": 45,
+      "total": 2096
     },
     "phone_pack_title": {
-      "present": 44,
-      "total": 2095
+      "present": 45,
+      "total": 2096
     },
     "agent_account": {
       "present": 62,
-      "total": 2095
+      "total": 2096
     },
     "short_url": {
-      "present": 1360,
-      "total": 2095
+      "present": 1361,
+      "total": 2096
     },
     "final_sms_content": {
-      "present": 2082,
-      "total": 2095
+      "present": 2083,
+      "total": 2096
     }
   },
   "details_missing_fields": [
@@ -51,7 +51,7 @@
     "short_url",
     "final_sms_content"
   ],
-  "notes": "All 34 instance lists are verified by the built-in CSV. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
+  "notes": "Latest AICRM page shows 8238 plans; the latest verified full CSV covers 8237 plans across all 34 instances. Current CSV download did not complete, so per-site files remain at the prior baseline. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
   "instances": [
     {
       "site": "BD02",
@@ -1312,5 +1312,5 @@
       }
     }
   ],
-  "list_status": "complete"
+  "list_status": "partial"
 }

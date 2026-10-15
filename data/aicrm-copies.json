@@ -1,17 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T10:34:38.952769Z",
-  "snapshot_updated_at": "2026-10-15T10:34:28.372389Z",
+  "generated_at": "2026-10-15T10:50:10.583013Z",
+  "snapshot_updated_at": "2026-10-15T10:50:06.927377Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8237,
+  "observed_campaign_total": 8238,
   "pages_read": [
-    1
+    1,
+    2
   ],
-  "rows_read": 20,
-  "note": "Full CSV list verified 8237 rows/34 instances. Five new BD02 plans were detail-enriched; Bengali content is UCS-2 as expected. Four PH IDs on latest page are existing. Two old PH pending details still show 未找到. Full detail coverage and latest priority 500 remain partial.",
-  "copy_count": 1369,
+  "rows_read": 40,
+  "note": "Current list shows 8238 rows, one new PH35 final SMS checked as GSM-7/1 segment. Full CSV remains stale at 8237 because current export did not complete. Two existing pending details still show 未找到. Full details and latest priority 500 remain partial.",
+  "copy_count": 1370,
   "copies": [
     {
       "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
@@ -3940,6 +3941,30 @@
           "plan_id": "4a45443a-e3f9-4e9d-87b9-0298a353d5ac",
           "title": "20261011-PH31-威龙-5000-D0ME（批次）",
           "site": "PH31"
+        }
+      ]
+    },
+    {
+      "text": "A mysterious, exclusive gift has arrived. Log in to your dedicated account to claim it. https://lucky4444.com/p3p4bh",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH35"
+      ],
+      "review_states": [
+        "checked",
+        "observed"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "4d7ea3f3-6182-44d6-938f-edb6c3db87b0",
+          "title": "BB 1-8（批次）",
+          "site": "PH35"
         }
       ]
     },

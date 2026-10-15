@@ -1,12 +1,18 @@
 [
   {
-    "at": "2026-10-15T10:34:28.372389Z",
+    "at": "2026-10-15T10:50:06.927377Z",
+    "what": "current full CSV export",
+    "instance": null,
+    "error": "AICRM built-in CSV download did not complete after two attempts; retained prior verified 8237-row baseline"
+  },
+  {
+    "at": "2026-10-15T10:50:06.927377Z",
     "what": "plan detail final SMS unreadable",
     "instance": "PH35",
     "error": "Authenticated detail page shows 未找到"
   },
   {
-    "at": "2026-10-15T10:34:28.372389Z",
+    "at": "2026-10-15T10:50:06.927377Z",
     "what": "plan detail final SMS unreadable",
     "instance": "PH31",
     "error": "Authenticated detail page shows 未找到"
