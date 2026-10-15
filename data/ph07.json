@@ -1,11 +1,11 @@
 {
   "site": "PH07",
-  "report_time": "2026-10-15 01:02:52",
+  "report_time": "2026-10-15 15:02:50",
   "persons": [
     {
       "name": "基挖老后台",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
