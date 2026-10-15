@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T06:24:12.806750Z",
-  "mode": "incremental",
+  "generated_at": "2026-10-15T06:32:43.182541Z",
+  "mode": "full",
   "last_full_at": null,
   "coverage": {
     "instances_done": 0,
     "instances_total": 34
   },
   "observed_total": 8224,
-  "exported_total": 2090,
-  "errors_count": 0,
-  "notes": "Ten priority pending plans, three page-1 status changes, and all ten PH final SMS details on page 5 were checked through ordinary Chrome. All observed texts were GSM-7; no new or recovered character anomaly. Total remained 8224; daily scan continues from page 6. No AICRM write, export or download."
+  "exported_total": 2094,
+  "errors_count": 2,
+  "notes": "Latest page 1 and daily full-scan page 6 were read at total 8224. All 19 visible PH final SMS texts were GSM-7 with no new or recovered character anomaly. Two previously missing older details still show 未找到 and remain pending. createdAt was not visible for the latest plans; 34 instance inventory remains unverified. Full scan partial."
 }
