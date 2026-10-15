@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T11:04:33.448001Z",
+  "generated_at": "2026-10-15T11:16:46.668274Z",
   "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
@@ -14,32 +14,32 @@
   "errors_count": 3,
   "field_coverage": {
     "plan_id": {
-      "present": 2095,
-      "total": 2096
+      "present": 2100,
+      "total": 2101
     },
     "failure_reason": {
       "present": 0,
-      "total": 2096
+      "total": 2101
     },
     "creator_name": {
-      "present": 45,
-      "total": 2096
+      "present": 50,
+      "total": 2101
     },
     "phone_pack_title": {
-      "present": 45,
-      "total": 2096
+      "present": 50,
+      "total": 2101
     },
     "agent_account": {
-      "present": 62,
-      "total": 2096
+      "present": 67,
+      "total": 2101
     },
     "short_url": {
-      "present": 1361,
-      "total": 2096
+      "present": 1366,
+      "total": 2101
     },
     "final_sms_content": {
-      "present": 2083,
-      "total": 2096
+      "present": 2088,
+      "total": 2101
     }
   },
   "details_missing_fields": [
