@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -21,7 +21,7 @@
       "total": 1663
     },
     "creator_name": {
-      "present": 0,
+      "present": 12,
       "total": 1663
     },
     "phone_pack_title": {
@@ -184,7 +184,7 @@
       "completed_sent_at": "2026/10/14 11:47:09",
       "failure_reason": null,
       "batch_task_count": 6,
-      "creator_name": null,
+      "creator_name": "阿木 - 运营组",
       "phone_pack_title": "阿木10.10艺术批次 1 - Globe 13/31（5,000 条）",
       "agent_account": "agmv7kasd7f7345f4001",
       "short_url": "https://3go.run/fkoz",
@@ -208,7 +208,7 @@
       "completed_sent_at": "2026/10/14 11:45:22",
       "failure_reason": null,
       "batch_task_count": 6,
-      "creator_name": null,
+      "creator_name": "阿木 - 运营组",
       "phone_pack_title": "阿木10.10艺术批次 1 - Globe 7/31（5,000 条）",
       "agent_account": "agmv7kaqh966c471a001",
       "short_url": "https://3go.run/2053",
@@ -232,7 +232,7 @@
       "completed_sent_at": "2026/10/14 11:44:13",
       "failure_reason": null,
       "batch_task_count": 6,
-      "creator_name": null,
+      "creator_name": "阿木 - 运营组",
       "phone_pack_title": "阿木10.10艺术批次 1 - Globe 1/31（5,000 条）",
       "agent_account": "agmv7kao3f0176291001",
       "short_url": "https://3go.run/acog",
@@ -256,7 +256,7 @@
       "completed_sent_at": "2026/10/15 00:10:28",
       "failure_reason": null,
       "batch_task_count": 15,
-      "creator_name": null,
+      "creator_name": "莹莹- 南昌组",
       "phone_pack_title": "729戌狗 (3) - AllNet 4/5（144 条）",
       "agent_account": "agmv6s0dzo7c49a6a001",
       "short_url": "https://3go.run/adk2",
@@ -280,7 +280,7 @@
       "completed_sent_at": "2026/10/14 00:06:22",
       "failure_reason": null,
       "batch_task_count": 12,
-      "creator_name": null,
+      "creator_name": "莹莹- 南昌组",
       "phone_pack_title": "8.7叮当猫 (4) - AllNet 4/5（164 条）",
       "agent_account": "agmv6rx27m0a8600b001",
       "short_url": "https://3go.run/0wek",
@@ -304,7 +304,7 @@
       "completed_sent_at": "2026/10/14 00:06:15",
       "failure_reason": null,
       "batch_task_count": 9,
-      "creator_name": null,
+      "creator_name": "莹莹- 南昌组",
       "phone_pack_title": "8.7河马 (2) - AllNet 5/6（141 条）",
       "agent_account": "agmv6rr4jr693eb41001",
       "short_url": "https://3go.run/u0dn",
@@ -328,7 +328,7 @@
       "completed_sent_at": "2026/10/14 00:05:37",
       "failure_reason": null,
       "batch_task_count": 8,
-      "creator_name": null,
+      "creator_name": "莹莹- 南昌组",
       "phone_pack_title": "8.7战马 (3) - AllNet 4/5（83 条）",
       "agent_account": "agmv6rlq8s82f5720001",
       "short_url": "https://3go.run/ho16",
@@ -472,7 +472,7 @@
       "completed_sent_at": "2026/10/12 19:27:02",
       "failure_reason": null,
       "batch_task_count": 5,
-      "creator_name": null,
+      "creator_name": "莹莹- 南昌组",
       "phone_pack_title": "8.8叮当猫 - AllNet 12/13（760 条）",
       "agent_account": "agmv55redh4cf7de4001",
       "short_url": "https://laro.run/wlr7",
@@ -496,7 +496,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 20,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "10.4支付料 20/20（436 条）",
       "agent_account": "agmu0alukw02e3515002",
       "short_url": "https://sw.run/fX_wQ",
@@ -520,7 +520,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 44,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "10.3支付料 22/22（48 条）",
       "agent_account": "agmu0akymo499ff1f006",
       "short_url": "https://sw.run/MfjZD",
@@ -544,7 +544,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 20,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "10.1支付料 20/20（148 条）",
       "agent_account": "agmu0akymo499ff1f001",
       "short_url": "https://sw.run/SvAmR",
@@ -568,7 +568,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 24,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "9.30支付料 24/24（16 条）",
       "agent_account": "agmu0agdtf85c8809009",
       "short_url": "https://sw.run/qgXj7",
@@ -5421,7 +5421,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5444,7 +5445,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5467,7 +5469,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5490,7 +5493,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5513,7 +5517,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5536,7 +5541,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5559,7 +5565,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5582,7 +5589,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5628,7 +5636,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5651,7 +5660,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5697,7 +5707,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5743,7 +5754,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5766,7 +5778,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5789,7 +5802,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5812,7 +5826,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5835,7 +5850,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5858,7 +5874,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5881,7 +5898,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5904,7 +5922,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {

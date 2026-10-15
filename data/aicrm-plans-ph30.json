@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -13,7 +13,7 @@
   "detail_enriched_count": 1213,
   "field_coverage": {
     "plan_id": {
-      "present": 602,
+      "present": 603,
       "total": 1213
     },
     "failure_reason": {
@@ -21,7 +21,7 @@
       "total": 1213
     },
     "creator_name": {
-      "present": 3,
+      "present": 12,
       "total": 1213
     },
     "phone_pack_title": {
@@ -33,11 +33,11 @@
       "total": 1213
     },
     "short_url": {
-      "present": 80,
+      "present": 81,
       "total": 1213
     },
     "final_sms_content": {
-      "present": 602,
+      "present": 603,
       "total": 1213
     }
   },
@@ -304,7 +304,7 @@
       "completed_sent_at": "2026/10/14 12:17:59",
       "failure_reason": null,
       "batch_task_count": 1,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "10.9复用万转数据+Smart 111/132（5,000 条）",
       "agent_account": "agmv666pnxbfe532e001",
       "short_url": "https://sw.run/FXFLD",
@@ -328,7 +328,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "Jeff - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Smart 119/132（5,000 条）",
       "agent_account": "agmv7l4fjz0e7e9ca001",
       "short_url": "https://sw.run/RnnvD",
@@ -352,7 +352,7 @@
       "completed_sent_at": "2026/10/14 12:04:40",
       "failure_reason": null,
       "batch_task_count": 6,
-      "creator_name": null,
+      "creator_name": "Jeff - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 27/160（5,000 条）",
       "agent_account": "agmv7l256x189964b001",
       "short_url": "https://sw.run/fCcel",
@@ -376,7 +376,7 @@
       "completed_sent_at": "2026/10/13 13:42:42",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "大陈 - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 40/160（5,000 条）",
       "agent_account": "agmv68v6ko39d6057001",
       "short_url": "https://isda.run/p49kzd",
@@ -400,7 +400,7 @@
       "completed_sent_at": "2026/10/13 13:43:04",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "大陈 - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 38/160（5,000 条）",
       "agent_account": "agmv68v52i83521e4001",
       "short_url": "https://isda.run/1f7j6j",
@@ -424,7 +424,7 @@
       "completed_sent_at": "2026/10/13 13:51:14",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "大陈 - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 44/160（5,000 条）",
       "agent_account": "agmv68v3kg1ae2782001",
       "short_url": "https://isda.run/czw3uz",
@@ -568,7 +568,7 @@
       "completed_sent_at": "—",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "小木- 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 54/160（5,000 条）",
       "agent_account": "agmv4ul9ukcc02293001",
       "short_url": "https://sw.run/hFGhm",
@@ -592,7 +592,7 @@
       "completed_sent_at": "2026/10/12 18:35:50",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "大陈 - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 60/160（5,000 条）",
       "agent_account": null,
       "short_url": null,
@@ -616,7 +616,7 @@
       "completed_sent_at": "2026/10/12 18:35:54",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "大陈 - 南昌组",
       "phone_pack_title": "10.9复用万转数据+Globe 58/160（5,000 条）",
       "agent_account": null,
       "short_url": null,
@@ -9275,7 +9275,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9298,7 +9299,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9321,7 +9323,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9344,7 +9347,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9367,7 +9371,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9390,7 +9395,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9413,7 +9419,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9436,7 +9443,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9459,7 +9467,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9482,7 +9491,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9505,7 +9515,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9528,7 +9539,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -9551,7 +9563,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10084,7 +10097,7 @@
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "6af3540d-ac7b-4777-8066-30ccf6e00b62",
       "title": "PH31",
       "site": "PH30",
       "created_at": "2026-09-22T06:22:29.633Z",
@@ -10098,12 +10111,13 @@
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://sw.run/A5uX6",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://sw.run/A5uX6",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -10500,7 +10514,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10523,7 +10538,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10546,7 +10562,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10569,7 +10586,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10592,7 +10610,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10615,7 +10634,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10638,7 +10658,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10661,7 +10682,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -10684,7 +10706,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:23:44.697521Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "mode": "full",
   "snapshot_status": "partial",
   "details_status": "partial",
@@ -1023,7 +1023,7 @@
       "item_count": 1663,
       "field_coverage": {
         "plan_id": {
-          "present": 478,
+          "present": 481,
           "total": 1663
         },
         "failure_reason": {
@@ -1043,11 +1043,11 @@
           "total": 1663
         },
         "short_url": {
-          "present": 456,
+          "present": 459,
           "total": 1663
         },
         "final_sms_content": {
-          "present": 478,
+          "present": 481,
           "total": 1663
         }
       }

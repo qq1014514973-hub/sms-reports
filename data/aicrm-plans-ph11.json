@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -13,7 +13,7 @@
   "detail_enriched_count": 142,
   "field_coverage": {
     "plan_id": {
-      "present": 71,
+      "present": 72,
       "total": 142
     },
     "failure_reason": {
@@ -21,7 +21,7 @@
       "total": 142
     },
     "creator_name": {
-      "present": 0,
+      "present": 1,
       "total": 142
     },
     "phone_pack_title": {
@@ -33,11 +33,11 @@
       "total": 142
     },
     "short_url": {
-      "present": 71,
+      "present": 72,
       "total": 142
     },
     "final_sms_content": {
-      "present": 71,
+      "present": 72,
       "total": 142
     }
   },
@@ -64,7 +64,7 @@
       "completed_sent_at": "2026/10/13 20:01:39",
       "failure_reason": null,
       "batch_task_count": 10,
-      "creator_name": null,
+      "creator_name": "红中 - 运营组",
       "phone_pack_title": "土猪外部数据 (2) - Unknown carrier 5/5（9 条）",
       "agent_account": null,
       "short_url": "https://3go.run/8sq9",
@@ -408,7 +408,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -431,7 +432,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -454,7 +456,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -477,7 +480,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -500,7 +504,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -523,7 +528,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -1223,7 +1229,7 @@
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "9b126cc5-77ac-47cb-bdc8-bf7d3ec24d48",
       "title": "20260919-PH11-红中 - 运营组-1349-Y2GV",
       "site": "PH11",
       "created_at": "2026-09-19T05:03:32.966Z",
@@ -1237,12 +1243,12 @@
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://basa.run/08lo",
+      "final_sms_content": "Sep Swerte sa Pinata Wins! 30 FREE SP1NS + 120X drop. Fast GC@sh cashout: https://basa.run/08lo",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "checked"
       ]
     },
     {

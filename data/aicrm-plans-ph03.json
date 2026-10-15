@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -306,7 +306,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -329,7 +330,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -352,7 +354,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -375,7 +378,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -398,7 +402,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "pending"
       ]
     },
     {
@@ -421,7 +426,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -444,7 +450,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -467,7 +474,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -490,7 +498,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -513,7 +522,8 @@
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {

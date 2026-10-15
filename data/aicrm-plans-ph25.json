@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "generated_at": "2026-10-15T09:26:40.043362Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -13,7 +13,7 @@
   "detail_enriched_count": 310,
   "field_coverage": {
     "plan_id": {
-      "present": 260,
+      "present": 264,
       "total": 310
     },
     "failure_reason": {
@@ -21,7 +21,7 @@
       "total": 310
     },
     "creator_name": {
-      "present": 7,
+      "present": 17,
       "total": 310
     },
     "phone_pack_title": {
@@ -33,11 +33,11 @@
       "total": 310
     },
     "short_url": {
-      "present": 260,
+      "present": 264,
       "total": 310
     },
     "final_sms_content": {
-      "present": 260,
+      "present": 264,
       "total": 310
     }
   },
@@ -1024,7 +1024,7 @@
       "completed_sent_at": "2026/10/14 12:10:50",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (17) - Smart 6/19（5,000 条）",
       "agent_account": "agmv7l9kae63fb0cb001",
       "short_url": "https://ax7.run/u00e",
@@ -1048,7 +1048,7 @@
       "completed_sent_at": "2026/10/14 12:08:16",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (19) - Globe 17/20（5,000 条）",
       "agent_account": "agmv7l57918fa7ebe001",
       "short_url": "https://n24.run/t9k0",
@@ -1072,7 +1072,7 @@
       "completed_sent_at": "2026/10/13 14:01:38",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (17) - Smart 4/19（5,000 条）",
       "agent_account": "agmv69nlyk8f21f7e001",
       "short_url": "https://fox8.run/u9tn",
@@ -1096,7 +1096,7 @@
       "completed_sent_at": "2026/10/13 14:01:06",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (17) - Smart 7/19（5,000 条）",
       "agent_account": "agmv69jnh066aa1f8001",
       "short_url": "https://24go.run/p4hu",
@@ -1120,7 +1120,7 @@
       "completed_sent_at": "2026/10/13 14:00:22",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (17) - Smart 1/19（5,000 条）",
       "agent_account": "agmv69g0cnc513c5b001",
       "short_url": "https://pinoygo.run/f0sy",
@@ -1144,7 +1144,7 @@
       "completed_sent_at": "2026/10/13 13:59:00",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (18) - Smart 20/22（5,000 条）",
       "agent_account": "agmv69b9g442de359001",
       "short_url": "https://pinoypro.run/hf12",
@@ -1168,7 +1168,7 @@
       "completed_sent_at": "2026/10/13 13:57:33",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (19) - Smart 10/20（5,000 条）",
       "agent_account": "agmv69766l69eb3ab001",
       "short_url": "https://pinoybox.run/24g7",
@@ -1192,7 +1192,7 @@
       "completed_sent_at": "2026/10/13 13:55:42",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (36) - Smart 17/21（503 条）",
       "agent_account": "agmv693jlif35ae18001",
       "short_url": "https://sayaone.run/suw7",
@@ -1216,7 +1216,7 @@
       "completed_sent_at": "2026/10/13 13:54:05",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (19) - Smart 7/20（5,000 条）",
       "agent_account": "agmv6904hjdc156a6001",
       "short_url": "https://168bo.run/gny5",
@@ -1240,7 +1240,7 @@
       "completed_sent_at": "2026/10/13 13:52:45",
       "failure_reason": null,
       "batch_task_count": 2,
-      "creator_name": null,
+      "creator_name": "阿正 - 运营组",
       "phone_pack_title": "银河数据0904无视点击，直接发 (19) - Smart 8/20（5,000 条）",
       "agent_account": "agmv68whe09d48b06001",
       "short_url": "https://168kt.run/9wkr",
@@ -3629,7 +3629,7 @@
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "45bab26b-be9c-4fdb-8dad-447788613ee4",
       "title": "回流-2 1-20",
       "site": "PH25",
       "created_at": "2026-10-06T10:28:32.509Z",
@@ -3637,18 +3637,19 @@
       "launch_status": "已发送",
       "planned_at": null,
       "sent_at": null,
-      "completed_sent_at": null,
+      "completed_sent_at": "2026/10/06 20:50:12",
       "failure_reason": null,
       "batch_task_count": null,
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://3go.run/7zm1",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/7zm1",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5884,7 +5885,7 @@
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "49ffc518-511d-43cb-81e7-8e50794d6c22",
       "title": "9/24-回流-2 1-10",
       "site": "PH25",
       "created_at": "2026-09-24T07:41:51.289Z",
@@ -5898,16 +5899,17 @@
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://3go.run/eb7z",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/eb7z",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "2c7f9cb8-387e-416a-b041-0980ac7b8ea5",
       "title": "9/24-回流-1 1-10",
       "site": "PH25",
       "created_at": "2026-09-24T07:40:53.253Z",
@@ -5921,12 +5923,13 @@
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://3go.run/q6vd",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/q6vd",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
@@ -5978,7 +5981,7 @@
       ]
     },
     {
-      "plan_id": null,
+      "plan_id": "18521dc9-4f7f-4a24-862a-b92c2d287a85",
       "title": "9/21-回流-globe-1 1-20",
       "site": "PH25",
       "created_at": "2026-09-21T09:21:39.649Z",
@@ -5992,12 +5995,13 @@
       "creator_name": null,
       "phone_pack_title": null,
       "agent_account": null,
-      "short_url": null,
-      "final_sms_content": null,
-      "encoding": null,
-      "segments": null,
+      "short_url": "https://3go.run/00p6",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/00p6",
+      "encoding": "GSM-7",
+      "segments": 1,
       "review_states": [
-        "observed"
+        "observed",
+        "checked"
       ]
     },
     {
