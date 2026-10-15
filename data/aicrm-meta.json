@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T11:44:24.812825Z",
+  "generated_at": "2026-10-15T12:01:25.884387Z",
   "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
@@ -9,37 +9,37 @@
     "instances_done": 34,
     "instances_total": 34
   },
-  "observed_total": 8238,
+  "observed_total": 8241,
   "exported_total": 8237,
   "errors_count": 3,
   "field_coverage": {
     "plan_id": {
-      "present": 2100,
-      "total": 2101
+      "present": 2103,
+      "total": 2104
     },
     "failure_reason": {
       "present": 0,
-      "total": 2101
+      "total": 2104
     },
     "creator_name": {
-      "present": 50,
-      "total": 2101
+      "present": 53,
+      "total": 2104
     },
     "phone_pack_title": {
-      "present": 50,
-      "total": 2101
+      "present": 53,
+      "total": 2104
     },
     "agent_account": {
-      "present": 67,
-      "total": 2101
+      "present": 70,
+      "total": 2104
     },
     "short_url": {
-      "present": 1366,
-      "total": 2101
+      "present": 1369,
+      "total": 2104
     },
     "final_sms_content": {
-      "present": 2088,
-      "total": 2101
+      "present": 2091,
+      "total": 2104
     }
   },
   "details_missing_fields": [
@@ -51,7 +51,7 @@
     "short_url",
     "final_sms_content"
   ],
-  "notes": "Latest AICRM list shows 8238 plans; the last verified 34-instance CSV covers 8237. Current CSV list coverage is partial. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
+  "notes": "Latest AICRM list shows 8241 plans; the last verified 34-instance CSV covers 8237. Current CSV list coverage is partial. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
   "instances": [
     {
       "site": "BD02",

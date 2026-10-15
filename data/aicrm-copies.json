@@ -1,23 +1,17 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T11:44:24.812825Z",
-  "snapshot_updated_at": "2026-10-15T11:44:20.929Z",
+  "generated_at": "2026-10-15T12:01:25.884387Z",
+  "snapshot_updated_at": "2026-10-15T12:01:21.098Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8238,
+  "observed_campaign_total": 8241,
   "pages_read": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
+    1
   ],
-  "rows_read": 140,
-  "note": "No new plan or PH character change on latest page and page 7. Nine PH plans on page 7 already checked. Two older pending details still show 未找到. Full CSV export timed out; 8237-row baseline stale against 8238 UI total.",
-  "copy_count": 1375,
+  "rows_read": 20,
+  "note": "Three new PH31 plans have generated final SMS, all GSM-7 one segment. Total rose to 8241, so full pagination restarted. Full CSV download failed again; previous 8237-row baseline retained. Two old details still show 未找到.",
+  "copy_count": 1378,
   "copies": [
     {
       "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
@@ -29307,6 +29301,29 @@
       ]
     },
     {
+      "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://3go.run/bh39",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH31"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "d93b7ace-0d81-4b74-bad9-74cc89362a16",
+          "title": "813叮当 1-4（批次）",
+          "site": "PH31"
+        }
+      ]
+    },
+    {
       "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://3go.run/crrv",
       "encodings": [
         "GSM-7"
@@ -29422,6 +29439,29 @@
         {
           "plan_id": "0bbf45d8-df2a-419d-aa1c-49f8bd90ef67",
           "title": "8.8战马7gg 1-12（批次）",
+          "site": "PH31"
+        }
+      ]
+    },
+    {
+      "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://3go.run/lvqg",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH31"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "acb3bea1-3854-49ab-9e4d-159de569e244",
+          "title": "823叮当猫 1-4（批次）",
           "site": "PH31"
         }
       ]
@@ -29902,6 +29942,29 @@
         {
           "plan_id": "e67d9682-437e-4cd2-b958-b075b052b129",
           "title": "YoYo-菲31-0916 1-10（批次）",
+          "site": "PH31"
+        }
+      ]
+    },
+    {
+      "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://basa.run/7ka9",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH31"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "d1d0609a-75ae-4aec-ac6b-f61dba492b63",
+          "title": "825叮当+补 basa 1-10（批次）",
           "site": "PH31"
         }
       ]
