@@ -1,6 +1,6 @@
 {
   "site": "PH31",
-  "report_time": "2026-10-15 21:02:23",
+  "report_time": "2026-10-15 21:33:56",
   "persons": [
     {
       "name": "大陈",
@@ -11,7 +11,7 @@
     {
       "name": "小K",
       "send": 0,
-      "l1_first_deposit": 3,
+      "l1_first_deposit": 4,
       "l1_per10k": 0
     },
     {
@@ -47,8 +47,8 @@
     {
       "name": "莹莹",
       "send": 75755,
-      "l1_first_deposit": 25,
-      "l1_per10k": 3.3
+      "l1_first_deposit": 27,
+      "l1_per10k": 3.6
     },
     {
       "name": "威龙",
