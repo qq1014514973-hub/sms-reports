@@ -1,44 +1,44 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T10:29:47.371095Z",
+  "generated_at": "2026-10-15T12:29:52.037830Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
   "details_status": "partial",
   "site": "PH31",
-  "observed_total": 1663,
-  "item_count": 1663,
-  "detail_enriched_count": 1663,
+  "observed_total": 1666,
+  "item_count": 1666,
+  "detail_enriched_count": 1666,
   "field_coverage": {
     "plan_id": {
-      "present": 481,
-      "total": 1663
+      "present": 484,
+      "total": 1666
     },
     "failure_reason": {
       "present": 0,
-      "total": 1663
+      "total": 1666
     },
     "creator_name": {
-      "present": 12,
-      "total": 1663
+      "present": 15,
+      "total": 1666
     },
     "phone_pack_title": {
-      "present": 12,
-      "total": 1663
+      "present": 15,
+      "total": 1666
     },
     "agent_account": {
-      "present": 17,
-      "total": 1663
+      "present": 20,
+      "total": 1666
     },
     "short_url": {
-      "present": 459,
-      "total": 1663
+      "present": 462,
+      "total": 1666
     },
     "final_sms_content": {
-      "present": 481,
-      "total": 1663
+      "present": 484,
+      "total": 1666
     }
   },
   "details_missing_fields": [
@@ -52,6 +52,75 @@
   ],
   "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
   "items": [
+    {
+      "plan_id": "d1d0609a-75ae-4aec-ac6b-f61dba492b63",
+      "title": "825叮当+补 basa 1-10",
+      "site": "PH31",
+      "created_at": "2026-10-15T11:56:22.328Z",
+      "status": "待发送",
+      "launch_status": "待定时发送",
+      "planned_at": "2026/10/16 00:00:00",
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 10,
+      "creator_name": "莹莹- 南昌组",
+      "phone_pack_title": "825叮当 +补 (2) - AllNet 4/5（254 条）",
+      "agent_account": "agmv9hghq86359035001",
+      "short_url": "https://basa.run/7ka9",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://basa.run/7ka9",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "d93b7ace-0d81-4b74-bad9-74cc89362a16",
+      "title": "813叮当 1-4",
+      "site": "PH31",
+      "created_at": "2026-10-15T11:53:41.486Z",
+      "status": "待发送",
+      "launch_status": "待定时发送",
+      "planned_at": "2026/10/16 00:00:00",
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 4,
+      "creator_name": "莹莹- 南昌组",
+      "phone_pack_title": "813叮当 - AllNet 4/5（140 条）",
+      "agent_account": "agmv9hczu16eb2cc1001",
+      "short_url": "https://3go.run/bh39",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://3go.run/bh39",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "acb3bea1-3854-49ab-9e4d-159de569e244",
+      "title": "823叮当猫 1-4",
+      "site": "PH31",
+      "created_at": "2026-10-15T11:51:49.843Z",
+      "status": "待发送",
+      "launch_status": "待定时发送",
+      "planned_at": "2026/10/16 00:00:00",
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": 4,
+      "creator_name": "莹莹- 南昌组",
+      "phone_pack_title": "823叮当猫 - AllNet 5/5（34 条）",
+      "agent_account": "agmv9hamjcdf0a0cf001",
+      "short_url": "https://3go.run/lvqg",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives Golden Egg Jackp0t Rush + 150% extra b0nus for you: https://3go.run/lvqg",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "checked"
+      ]
+    },
     {
       "plan_id": "abdd28f6-ed3c-46fb-b264-05a3748f2ff6",
       "title": "20261014-PH31-阿木 - 运营组-500-K3JZ",

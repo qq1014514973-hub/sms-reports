@@ -1,44 +1,44 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T10:29:47.371095Z",
+  "generated_at": "2026-10-15T12:29:52.037830Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
   "details_status": "partial",
   "site": "PH33",
-  "observed_total": 140,
-  "item_count": 140,
-  "detail_enriched_count": 140,
+  "observed_total": 141,
+  "item_count": 141,
+  "detail_enriched_count": 141,
   "field_coverage": {
     "plan_id": {
-      "present": 25,
-      "total": 140
+      "present": 26,
+      "total": 141
     },
     "failure_reason": {
       "present": 0,
-      "total": 140
+      "total": 141
     },
     "creator_name": {
-      "present": 0,
-      "total": 140
+      "present": 1,
+      "total": 141
     },
     "phone_pack_title": {
-      "present": 0,
-      "total": 140
+      "present": 1,
+      "total": 141
     },
     "agent_account": {
       "present": 0,
-      "total": 140
+      "total": 141
     },
     "short_url": {
-      "present": 25,
-      "total": 140
+      "present": 26,
+      "total": 141
     },
     "final_sms_content": {
-      "present": 25,
-      "total": 140
+      "present": 26,
+      "total": 141
     }
   },
   "details_missing_fields": [
@@ -52,6 +52,29 @@
   ],
   "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
   "items": [
+    {
+      "plan_id": "46a45ce3-1828-4d50-9aa3-e19c2e1dc911",
+      "title": "CC 1-20",
+      "site": "PH33",
+      "created_at": "2026-10-15T12:03:05.298Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/15 20:03:22",
+      "completed_sent_at": "2026/10/15 20:08:17",
+      "failure_reason": null,
+      "batch_task_count": 20,
+      "creator_name": "宇森 - 运营组",
+      "phone_pack_title": "NN33 大回流 - Unknown carrier 20/20（9 条）",
+      "agent_account": null,
+      "short_url": "https://lucky969.com/aadbwj",
+      "final_sms_content": "A mysterious, exclusive gift has arrived. Log in to your dedicated account to claim it. https://lucky969.com/aadbwj",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "checked"
+      ]
+    },
     {
       "plan_id": "8ab37a96-b4b3-4a27-9d4f-d6e73d52a1db",
       "title": "回 1-7",

@@ -1,7 +1,7 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T12:17:10.900124Z",
-  "mode": "incremental",
+  "generated_at": "2026-10-15T12:29:52.037830Z",
+  "mode": "full",
   "snapshot_status": "partial",
   "details_status": "partial",
   "last_full_at": null,
@@ -10,8 +10,8 @@
     "instances_total": 34
   },
   "observed_total": 8242,
-  "exported_total": 8237,
-  "errors_count": 4,
+  "exported_total": 8242,
+  "errors_count": 2,
   "field_coverage": {
     "plan_id": {
       "present": 2104,
@@ -51,7 +51,7 @@
     "short_url",
     "final_sms_content"
   ],
-  "notes": "Latest AICRM list shows 8242 plans; the last verified 34-instance CSV covers 8237. Current CSV list coverage is partial. The CSV omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content; its email-only creator column is not published. Detail coverage remains partial.",
+  "notes": "All 34 instance lists are present. Detail enrichment remains partial because the built-in CSV does not expose plan_id, failure_reason, phone_pack_title, agent_account, short_url or final_sms_content; its email-only creator column is not published as creator_name. Unavailable values are null, never inferred.",
   "instances": [
     {
       "site": "BD02",
@@ -1020,35 +1020,35 @@
       "file": "aicrm-plans-ph31.json",
       "list_status": "complete",
       "details_status": "partial",
-      "item_count": 1663,
+      "item_count": 1666,
       "field_coverage": {
         "plan_id": {
-          "present": 481,
-          "total": 1663
+          "present": 484,
+          "total": 1666
         },
         "failure_reason": {
           "present": 0,
-          "total": 1663
+          "total": 1666
         },
         "creator_name": {
-          "present": 12,
-          "total": 1663
+          "present": 15,
+          "total": 1666
         },
         "phone_pack_title": {
-          "present": 12,
-          "total": 1663
+          "present": 15,
+          "total": 1666
         },
         "agent_account": {
-          "present": 17,
-          "total": 1663
+          "present": 20,
+          "total": 1666
         },
         "short_url": {
-          "present": 459,
-          "total": 1663
+          "present": 462,
+          "total": 1666
         },
         "final_sms_content": {
-          "present": 481,
-          "total": 1663
+          "present": 484,
+          "total": 1666
         }
       }
     },
@@ -1057,35 +1057,35 @@
       "file": "aicrm-plans-ph33.json",
       "list_status": "complete",
       "details_status": "partial",
-      "item_count": 140,
+      "item_count": 141,
       "field_coverage": {
         "plan_id": {
-          "present": 25,
-          "total": 140
+          "present": 26,
+          "total": 141
         },
         "failure_reason": {
           "present": 0,
-          "total": 140
+          "total": 141
         },
         "creator_name": {
-          "present": 0,
-          "total": 140
+          "present": 1,
+          "total": 141
         },
         "phone_pack_title": {
-          "present": 0,
-          "total": 140
+          "present": 1,
+          "total": 141
         },
         "agent_account": {
           "present": 0,
-          "total": 140
+          "total": 141
         },
         "short_url": {
-          "present": 25,
-          "total": 140
+          "present": 26,
+          "total": 141
         },
         "final_sms_content": {
-          "present": 25,
-          "total": 140
+          "present": 26,
+          "total": 141
         }
       }
     },
@@ -1094,35 +1094,35 @@
       "file": "aicrm-plans-ph35.json",
       "list_status": "complete",
       "details_status": "partial",
-      "item_count": 687,
+      "item_count": 688,
       "field_coverage": {
         "plan_id": {
           "present": 74,
-          "total": 687
+          "total": 688
         },
         "failure_reason": {
           "present": 0,
-          "total": 687
+          "total": 688
         },
         "creator_name": {
           "present": 0,
-          "total": 687
+          "total": 688
         },
         "phone_pack_title": {
           "present": 0,
-          "total": 687
+          "total": 688
         },
         "agent_account": {
           "present": 0,
-          "total": 687
+          "total": 688
         },
         "short_url": {
           "present": 74,
-          "total": 687
+          "total": 688
         },
         "final_sms_content": {
           "present": 74,
-          "total": 687
+          "total": 688
         }
       }
     },

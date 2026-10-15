@@ -1,44 +1,44 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T10:29:47.371095Z",
+  "generated_at": "2026-10-15T12:29:52.037830Z",
   "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
   "details_status": "partial",
   "site": "PH35",
-  "observed_total": 687,
-  "item_count": 687,
+  "observed_total": 688,
+  "item_count": 688,
   "detail_enriched_count": 687,
   "field_coverage": {
     "plan_id": {
       "present": 74,
-      "total": 687
+      "total": 688
     },
     "failure_reason": {
       "present": 0,
-      "total": 687
+      "total": 688
     },
     "creator_name": {
       "present": 0,
-      "total": 687
+      "total": 688
     },
     "phone_pack_title": {
       "present": 0,
-      "total": 687
+      "total": 688
     },
     "agent_account": {
       "present": 0,
-      "total": 687
+      "total": 688
     },
     "short_url": {
       "present": 74,
-      "total": 687
+      "total": 688
     },
     "final_sms_content": {
       "present": 74,
-      "total": 687
+      "total": 688
     }
   },
   "details_missing_fields": [
@@ -52,6 +52,29 @@
   ],
   "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
   "items": [
+    {
+      "plan_id": null,
+      "title": "BB 1-8",
+      "site": "PH35",
+      "created_at": "2026-10-15T10:36:09.838Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
     {
       "plan_id": "8ecc207f-3307-451c-ba0f-00b688b14304",
       "title": "20260917-PH35-小财财【jack组】-500-R2WT",

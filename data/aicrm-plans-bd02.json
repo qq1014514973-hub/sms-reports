@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T11:17:27.509314Z",
-  "source": "authenticated AICRM CSV baseline and read-only plan observations",
+  "generated_at": "2026-10-15T12:29:52.037830Z",
+  "source": "authenticated AICRM built-in full CSV export",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
@@ -10,7 +10,7 @@
   "site": "BD02",
   "observed_total": 698,
   "item_count": 698,
-  "detail_enriched_count": 5,
+  "detail_enriched_count": 698,
   "field_coverage": {
     "plan_id": {
       "present": 5,
