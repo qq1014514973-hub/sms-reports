@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T05:07:20.812919Z",
-  "snapshot_updated_at": "2026-10-15T05:00:45.056Z",
+  "generated_at": "2026-10-15T05:19:00.791339Z",
+  "snapshot_updated_at": "2026-10-15T05:18:56.048Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8207,
+  "observed_campaign_total": 8214,
   "pages_read": [
     1,
     2,
@@ -110,8 +110,8 @@
     101
   ],
   "rows_read": 2020,
-  "note": "Ten queued placeholders, fourteen PH plans on page 68, and twelve PH plans on page 1 were read and GSM-7 checked. Seven new PH25 texts contain live links and were normal. Total is 8207, eight above prior run; earlier page snapshots may have shifted and full coverage is pending. No AICRM write, export or download.",
-  "copy_count": 1356,
+  "note": "Ten pending plans and PH plans on home, pages 69 and 2 were read through the authenticated Chrome UI. Eight new PH25 texts were GSM-7 normal. Current visible total is 8214; pages 1 and 2 form the start of the 2026-10-15 daily scan. Total changed during the run, so page 69 and historical pages do not establish current-complete coverage. No AICRM write, export or download.",
+  "copy_count": 1364,
   "copies": [
     {
       "text": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
@@ -16706,6 +16706,29 @@
       ]
     },
     {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://588bo.run/jlxt",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "99a5ef47-4d3e-40c1-908f-afebe910a8ed",
+          "title": "10/15/十 菲律宾GG家-银河数据-smart-10 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
       "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://588bo.run/m9k1",
       "encodings": [
         "GSM-7"
@@ -17557,6 +17580,29 @@
       ]
     },
     {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://doon.run/mkwu",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "426a7bc3-c4b3-48c2-bc08-dac31c2a0ef9",
+          "title": "10/15/七 菲律宾GG家-银河数据-smart-7 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
       "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://doon.run/raog",
       "encodings": [
         "GSM-7"
@@ -18109,6 +18155,29 @@
       ]
     },
     {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://ilan.run/byr3",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "1ed0a9ec-fdfd-4585-9d5b-44f0db9d86e0",
+          "title": "10/15/八 菲律宾GG家-银河数据-smart-8 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
       "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://ilan.run/cgdc",
       "encodings": [
         "GSM-7"
@@ -18242,6 +18311,29 @@
         {
           "plan_id": "30d1f326-40b3-43ef-a445-debe0e2d8bd5",
           "title": "10/14/二 菲律宾GG家-银河数据-globe-11 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://kayo.run/50ks",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "949d1294-ed57-4fc5-8318-453196c8cff4",
+          "title": "10/15/六 菲律宾GG家-银河数据-smart-6 1-2（批次）",
           "site": "PH25"
         }
       ]
@@ -19098,6 +19190,29 @@
       ]
     },
     {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://naku.run/m9og",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "800a9176-8d88-482f-a9d0-bc61b9843835",
+          "title": "10/15/九 菲律宾GG家-银河数据-smart-9 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
       "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://naku.run/qv2b",
       "encodings": [
         "GSM-7"
@@ -19351,6 +19466,29 @@
       ]
     },
     {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://nasi.run/loim",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "bbfb0ed5-c8a7-4a02-80d3-c07ec08d3b4c",
+          "title": "10/15/五 菲律宾GG家-银河数据-smart-5 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
       "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://nasi.run/lsbt",
       "encodings": [
         "GSM-7"
@@ -19484,6 +19622,29 @@
         {
           "plan_id": "8cc687f7-938e-49a3-9fbb-5d9f7d09d3dd",
           "title": "10/13/八 菲律宾GG家-银河数据-globe-6 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://pang.run/gdgk",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "556edac1-a3b0-48d2-8ec3-85a4cbf8157f",
+          "title": "10/15/四 菲律宾GG家-银河数据-smart-4 1-2（批次）",
           "site": "PH25"
         }
       ]
@@ -20335,6 +20496,29 @@
         {
           "plan_id": "d18095f0-d9bb-408b-930a-64cf4e29dea4",
           "title": "10/7/十 菲律宾GG家-银河数据-globe-10 1-2（批次）",
+          "site": "PH25"
+        }
+      ]
+    },
+    {
+      "text": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://puso.run/r3w0",
+      "encodings": [
+        "GSM-7"
+      ],
+      "segment_counts": [
+        1
+      ],
+      "sites": [
+        "PH25"
+      ],
+      "review_states": [
+        "checked"
+      ],
+      "plan_count": 1,
+      "plans": [
+        {
+          "plan_id": "d81f51ae-9f23-4f24-aafc-3a9fc753ae13",
+          "title": "10/15/三 菲律宾GG家-银河数据-smart-3 1-2（批次）",
           "site": "PH25"
         }
       ]
