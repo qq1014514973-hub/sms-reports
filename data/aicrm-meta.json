@@ -1,7 +1,7 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:34:45.002972Z",
-  "mode": "full",
+  "generated_at": "2026-10-15T09:47:09.680492Z",
+  "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
   "last_full_at": null,
@@ -11,7 +11,7 @@
   },
   "observed_total": 8232,
   "exported_total": 8232,
-  "errors_count": 0,
+  "errors_count": 2,
   "field_coverage": {
     "plan_id": {
       "present": 2094,
