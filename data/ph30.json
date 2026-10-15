@@ -1,6 +1,6 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-15 21:33:23",
+  "report_time": "2026-10-15 22:07:54",
   "persons": [
     {
       "name": "大陈老后台",
@@ -29,8 +29,8 @@
     {
       "name": "大陈",
       "send": 30000,
-      "l1_first_deposit": 8,
-      "l1_per10k": 2.7
+      "l1_first_deposit": 9,
+      "l1_per10k": 3
     },
     {
       "name": "jeff",
@@ -47,7 +47,7 @@
     {
       "name": "威龙",
       "send": 0,
-      "l1_first_deposit": 1,
+      "l1_first_deposit": 2,
       "l1_per10k": 0
     }
   ]
