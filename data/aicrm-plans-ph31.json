@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T12:29:52.037830Z",
-  "source": "authenticated AICRM built-in full CSV export",
+  "generated_at": "2026-10-15T14:14:06.283604Z",
+  "source": "authenticated AICRM CSV baseline and read-only plan observations",
   "snapshot_status": "partial",
   "scope_complete": false,
   "list_status": "complete",
@@ -21,15 +21,15 @@
       "total": 1666
     },
     "creator_name": {
-      "present": 15,
+      "present": 17,
       "total": 1666
     },
     "phone_pack_title": {
-      "present": 15,
+      "present": 17,
       "total": 1666
     },
     "agent_account": {
-      "present": 20,
+      "present": 22,
       "total": 1666
     },
     "short_url": {
@@ -129,13 +129,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/14 16:39:29",
       "completed_sent_at": "2026/10/14 16:40:01",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 21,
+      "creator_name": "阿木 - 运营组",
+      "phone_pack_title": "阿木10.14小蕊批次 1 (2) - DITO 19/23（500 条）",
+      "agent_account": "agmv7uyqxb5cb085d001",
       "short_url": "https://3go.run/bt21",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://3go.run/bt21",
       "encoding": "GSM-7",
@@ -153,13 +153,13 @@
       "status": "已发送",
       "launch_status": "已发送",
       "planned_at": null,
-      "sent_at": null,
+      "sent_at": "2026/10/14 16:38:03",
       "completed_sent_at": "2026/10/14 16:38:28",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
+      "batch_task_count": 21,
+      "creator_name": "阿木 - 运营组",
+      "phone_pack_title": "阿木10.14小蕊批次 1 (1) - DITO 19/23（500 条）",
+      "agent_account": "agmv7uwncead10e5c001",
       "short_url": "https://3go.run/y6wa",
       "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: https://3go.run/y6wa",
       "encoding": "GSM-7",
