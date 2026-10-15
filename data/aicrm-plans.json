@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T12:58:17.058074Z",
-  "snapshot_updated_at": "2026-10-15T12:58:12.014Z",
+  "generated_at": "2026-10-15T13:14:46.748141Z",
+  "snapshot_updated_at": "2026-10-15T13:14:41.199Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest page remains 8242 with no newly visible plans or changed PH statuses. Two prior pending detail pages still show 未找到. 34-instance list baseline remains complete; detail review partial.",
+  "note": "Latest list remains 8242. Three existing GSM-7 short-link placeholders were reconfirmed and retain retryRequired=false; three unique CSV creation times were reconciled. Page 2 was only partly visible. Two actionable historical details still show 未找到; full detail scope remains partial.",
   "item_count": 2105,
   "items": [
     {
@@ -218,6 +218,78 @@
       "segments": 1,
       "review_states": [
         "checked"
+      ]
+    },
+    {
+      "plan_id": "e858b78f-2033-492e-8163-10f651bcfed7",
+      "title": "20261015-PH30-大陈 - 南昌组-5000-M8N6（批次）",
+      "site": "PH30",
+      "created_at": "2026-10-15T05:44:58.520Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/15 14:07:19",
+      "completed_sent_at": "2026/10/15 14:07:20",
+      "failure_reason": null,
+      "batch_task_count": 2,
+      "creator_name": "大陈 - 南昌组",
+      "phone_pack_title": "10.9复用万转数据+Globe 35/160（5,000 条）",
+      "agent_account": "agmv74bcilb190e41001",
+      "short_url": "https://isda.run/jf6cx7",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "pending"
+      ]
+    },
+    {
+      "plan_id": "7fc5ce50-e153-4c47-88c4-21764f272a82",
+      "title": "20261015-PH30-大陈 - 南昌组-5000-E4P2（批次）",
+      "site": "PH30",
+      "created_at": "2026-10-15T05:44:57.735Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/15 14:20:09",
+      "completed_sent_at": "2026/10/15 14:20:30",
+      "failure_reason": null,
+      "batch_task_count": 2,
+      "creator_name": "大陈 - 南昌组",
+      "phone_pack_title": "10.9复用万转数据+Globe 37/160（5,000 条）",
+      "agent_account": "agmv74bb240f19c35001",
+      "short_url": "https://isda.run/efkt7p",
+      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "pending"
+      ]
+    },
+    {
+      "plan_id": "1aecc598-c661-4e2a-a4e2-b2a1e2aed78c",
+      "title": "[SMS] Lucky Spin & Win 1",
+      "site": "PH22",
+      "created_at": "2026-10-15T05:16:55.384Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": "2026/10/16 04:00:00",
+      "sent_at": "2026/10/15 13:24:04",
+      "completed_sent_at": "2026/10/15 13:24:04",
+      "failure_reason": null,
+      "batch_task_count": 1,
+      "creator_name": "蛙声 - 运营组",
+      "phone_pack_title": "9月万转复用数据+Smart 914/916（5,000 条）",
+      "agent_account": "agmv936q583620b08001",
+      "short_url": "https://7x7.run/05pmvd",
+      "final_sms_content": "Pinata gift l0cked: 36 fr33 sp1ns + 2X b0nu5 + iPh0ne 17 chance. 1st P100 t0day ${shortUrl}",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "pending"
       ]
     },
     {
@@ -21789,54 +21861,6 @@
       ]
     },
     {
-      "plan_id": "e858b78f-2033-492e-8163-10f651bcfed7",
-      "title": "20261015-PH30-大陈 - 南昌组-5000-M8N6（批次）",
-      "site": "PH30",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": "2026/10/15 14:07:19",
-      "completed_sent_at": "2026/10/15 14:07:20",
-      "failure_reason": null,
-      "batch_task_count": 2,
-      "creator_name": "大陈 - 南昌组",
-      "phone_pack_title": "10.9复用万转数据+Globe 35/160（5,000 条）",
-      "agent_account": "agmv74bcilb190e41001",
-      "short_url": "https://isda.run/jf6cx7",
-      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "pending"
-      ]
-    },
-    {
-      "plan_id": "7fc5ce50-e153-4c47-88c4-21764f272a82",
-      "title": "20261015-PH30-大陈 - 南昌组-5000-E4P2（批次）",
-      "site": "PH30",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": "2026/10/15 14:20:09",
-      "completed_sent_at": "2026/10/15 14:20:30",
-      "failure_reason": null,
-      "batch_task_count": 2,
-      "creator_name": "大陈 - 南昌组",
-      "phone_pack_title": "10.9复用万转数据+Globe 37/160（5,000 条）",
-      "agent_account": "agmv74bb240f19c35001",
-      "short_url": "https://isda.run/efkt7p",
-      "final_sms_content": "{$phone[4]} ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 150% extra b0nus for you: ${shortUrl}",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "pending"
-      ]
-    },
-    {
       "plan_id": "019a196b-1187-4a4e-886e-4306077713e2",
       "title": "20261014-PH30-小木- 南昌组-5000-R7Y0",
       "site": "PH30",
@@ -42492,30 +42516,6 @@
       "phone_pack_title": null,
       "agent_account": null,
       "short_url": null,
-      "final_sms_content": "Pinata gift l0cked: 36 fr33 sp1ns + 2X b0nu5 + iPh0ne 17 chance. 1st P100 t0day ${shortUrl}",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "pending"
-      ]
-    },
-    {
-      "plan_id": "1aecc598-c661-4e2a-a4e2-b2a1e2aed78c",
-      "title": "[SMS] Lucky Spin & Win 1",
-      "site": "PH22",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": "2026/10/16 04:00:00",
-      "sent_at": "2026/10/15 13:24:04",
-      "completed_sent_at": "2026/10/15 13:24:04",
-      "failure_reason": null,
-      "batch_task_count": 1,
-      "creator_name": "蛙声 - 运营组",
-      "phone_pack_title": "9月万转复用数据+Smart 914/916（5,000 条）",
-      "agent_account": "agmv936q583620b08001",
-      "short_url": "https://7x7.run/05pmvd",
       "final_sms_content": "Pinata gift l0cked: 36 fr33 sp1ns + 2X b0nu5 + iPh0ne 17 chance. 1st P100 t0day ${shortUrl}",
       "encoding": "GSM-7",
       "segments": 1,
