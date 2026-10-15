@@ -1,12 +1,12 @@
 {
   "site": "TH18",
-  "report_time": "2026-10-15 19:03:26",
+  "report_time": "2026-10-14 全天",
   "persons": [
     {
       "name": "小刀",
-      "send": 11890,
-      "l1_first_deposit": 3,
-      "l1_per10k": 2.5
+      "send": 26745,
+      "l1_first_deposit": 7,
+      "l1_per10k": 2.6
     }
   ]
 }
