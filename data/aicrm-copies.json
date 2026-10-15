@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T09:47:09.680492Z",
-  "snapshot_updated_at": "2026-10-15T09:46:30.242809Z",
+  "generated_at": "2026-10-15T09:59:49.560633Z",
+  "snapshot_updated_at": "2026-10-15T09:59:36.528403Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -18,7 +18,7 @@
     9
   ],
   "rows_read": 180,
-  "note": "Latest page total remained 8232; all six visible PH IDs and statuses matched the prior baseline. Two actionable pending details still show 未找到. The 34-instance CSV list remains complete, while detail coverage remains partial.",
+  "note": "Latest page total 8232 and all 20 visible rows were read; six PH IDs and list statuses matched prior PH baseline. Two old pending details still show 未找到. Daily 34-instance CSV list is complete, but required detail coverage remains partial.",
   "copy_count": 1369,
   "copies": [
     {
