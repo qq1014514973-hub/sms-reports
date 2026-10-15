@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T13:28:47.793621Z",
-  "snapshot_updated_at": "2026-10-15T13:28:42.309Z",
+  "generated_at": "2026-10-15T13:45:12.772875Z",
+  "snapshot_updated_at": "2026-10-15T13:45:07.009Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest list total remains 8242 and visible newest PH rows are unchanged. First visible page-2 rows are existing PH30 short-link placeholders. Two actionable historical detail pages still show 未找到. No SMS copy could be newly verified this round; full detail scope remains partial.",
+  "note": "Latest total remains 8242. Five previously checked PH25 final SMS copies remain GSM-7, one segment, and detail metadata was filled from the page plus unique CSV creation timestamps. Two actionable historical details still show 未找到. Page and detail coverage remain partial.",
   "pending_count": 726,
   "pending": [
     {
@@ -35,7 +35,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T13:28:42.309Z",
+      "last_attempt_at": "2026-10-15T13:45:07.009Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
@@ -62,7 +62,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T13:28:42.309Z",
+      "last_attempt_at": "2026-10-15T13:45:07.009Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
