@@ -1,14 +1,14 @@
 [
   {
-    "at": "2026-10-15T08:22:31.813Z",
-    "what": "plan_detail_unavailable",
+    "at": "2026-10-15T08:36:19.465Z",
+    "what": "campaign_detail_final_sms",
     "instance": "PH35",
-    "error": "Plan detail displayed 未找到; final SMS content unavailable."
+    "error": "Detail page shows 未找到 for pending plan fd6edf84-13dd-4940-be0e-af662a5f15a0"
   },
   {
-    "at": "2026-10-15T08:22:31.813Z",
-    "what": "plan_detail_unavailable",
+    "at": "2026-10-15T08:36:19.465Z",
+    "what": "campaign_detail_final_sms",
     "instance": "PH31",
-    "error": "Plan detail displayed 未找到; final SMS content unavailable."
+    "error": "Detail page shows 未找到 for pending plan e4314b8e-293e-438d-8f60-21e1cec9dc72"
   }
 ]

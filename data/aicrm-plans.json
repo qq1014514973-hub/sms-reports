@@ -1,19 +1,16 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T08:23:28.447063Z",
-  "snapshot_updated_at": "2026-10-15T08:22:31.813Z",
+  "generated_at": "2026-10-15T08:36:44.019398Z",
+  "snapshot_updated_at": "2026-10-15T08:36:19.465Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8226,
+  "observed_campaign_total": 8231,
   "pages_read": [
-    1,
-    2,
-    3,
-    4
+    1
   ],
-  "rows_read": 80,
-  "note": "New PH05 plan aa 1-13 checked from final SMS: 115 GSM-7 septets, 1 segment. Total changed 8225 to 8226, so full scan restarted and pages 1-4 covered at 8226. Older PH35/PH31 details still show 未找到. Pages 5-412 and 34 instances remain.",
+  "rows_read": 20,
+  "note": "Latest PH05 final copy remains GSM-7, one segment; two old pending details still show 未找到. Total increased 8226→8229→8231, so only page 1 at 8231 counts toward daily full coverage; pages 2-412 and 34 instances remain.",
   "item_count": 2095,
   "items": [
     {
