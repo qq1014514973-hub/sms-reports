@@ -1,6 +1,6 @@
 {
   "site": "MM07",
-  "report_time": "2026-10-15 20:33:02",
+  "report_time": "2026-10-15 21:01:49",
   "persons": [
     {
       "name": "阿西",
@@ -11,7 +11,7 @@
     {
       "name": "wtt689",
       "send": 0,
-      "l1_first_deposit": 52,
+      "l1_first_deposit": 53,
       "l1_per10k": 0
     }
   ]
