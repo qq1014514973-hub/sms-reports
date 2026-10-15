@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T14:58:46.892493Z",
+  "generated_at": "2026-10-15T15:14:40.603379Z",
   "mode": "incremental",
   "snapshot_status": "partial",
   "details_status": "partial",
@@ -22,15 +22,15 @@
       "total": 2105
     },
     "creator_name": {
-      "present": 69,
+      "present": 71,
       "total": 2105
     },
     "phone_pack_title": {
-      "present": 69,
+      "present": 71,
       "total": 2105
     },
     "agent_account": {
-      "present": 81,
+      "present": 83,
       "total": 2105
     },
     "short_url": {
