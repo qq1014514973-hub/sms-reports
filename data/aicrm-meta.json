@@ -1,6 +1,6 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T08:46:55.007616Z",
+  "generated_at": "2026-10-15T09:05:44.919575Z",
   "mode": "full",
   "last_full_at": null,
   "coverage": {
@@ -10,5 +10,5 @@
   "observed_total": 8232,
   "exported_total": 2095,
   "errors_count": 2,
-  "notes": "Latest visible PH plans are in baseline and unchanged. Two older pending details still show 未找到. Total 8232, daily full scan covered pages 1-3 only; pages 4-412 and 34 instances remain."
+  "notes": "Latest page unchanged at total 8232. Pages 4-6 read and compared with existing PH baseline: no new plan or list status change. Two old details still show 未找到. Full coverage remains partial."
 }
