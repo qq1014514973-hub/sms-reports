@@ -1,17 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T10:50:10.583013Z",
-  "snapshot_updated_at": "2026-10-15T10:50:06.927377Z",
+  "generated_at": "2026-10-15T11:04:33.448001Z",
+  "snapshot_updated_at": "2026-10-15T11:04:26.893846Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
   "observed_campaign_total": 8238,
   "pages_read": [
     1,
-    2
+    2,
+    3,
+    4,
+    5
   ],
-  "rows_read": 40,
-  "note": "Current list shows 8238 rows, one new PH35 final SMS checked as GSM-7/1 segment. Full CSV remains stale at 8237 because current export did not complete. Two existing pending details still show 未找到. Full details and latest priority 500 remain partial.",
+  "rows_read": 100,
+  "note": "AICRM list remains at 8238. Pages 3-5 add 60 UI rows, with 37 PH rows previously checked and unchanged; latest page unchanged. Verified CSV still covers 8237 after current export did not complete. Two existing pending details still show 未找到. Full details and latest priority 500 remain partial.",
   "pending_count": 726,
   "pending": [
     {
@@ -36,7 +39,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T10:50:06.927377Z",
+      "last_attempt_at": "2026-10-15T11:04:26.893846Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
@@ -63,7 +66,7 @@
       "review_states": [
         "pending"
       ],
-      "last_attempt_at": "2026-10-15T10:50:06.927377Z",
+      "last_attempt_at": "2026-10-15T11:04:26.893846Z",
       "last_attempt_status": "detail_not_found",
       "pending_reason": "详情显示未找到，最终短信文案未读取；待复查",
       "retry_required": true
