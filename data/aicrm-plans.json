@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T15:14:40.603379Z",
-  "snapshot_updated_at": "2026-10-15T15:14:36.423Z",
+  "generated_at": "2026-10-15T15:29:01.793619Z",
+  "snapshot_updated_at": "2026-10-15T15:28:54.010Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -10,7 +10,7 @@
     1
   ],
   "rows_read": 20,
-  "note": "Latest total remains 8242. Two PH25 final SMS copies remain GSM-7, one segment. Page 13 PH30 final copy remains expected short-link placeholder. Two actionable historical details still show 未找到. Page and detail coverage remain partial.",
+  "note": "Latest total remains 8242. Three previously listed PH25 final SMS copies remain GSM-7, one segment. Two actionable historical details still show 未找到. Page and detail coverage remain partial.",
   "item_count": 2105,
   "items": [
     {
@@ -693,6 +693,78 @@
       "agent_account": "agmv3d8txx7dfc2ba001",
       "short_url": "https://pinoybox.run/h8pv",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://pinoybox.run/h8pv",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "3b77e70f-2202-4135-9de7-47385b60065d",
+      "title": "10/11/五 菲律宾GG家-银河数据-smart-5 1-2（批次）",
+      "site": "PH25",
+      "created_at": "2026-10-11T05:09:16.566Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/11 13:12:37",
+      "completed_sent_at": "2026/10/11 13:12:37",
+      "failure_reason": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (25) - Smart 8/20（5,000 条）",
+      "agent_account": "agmv3d5jvofefe817001",
+      "short_url": "https://sayaone.run/wyd7",
+      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://sayaone.run/wyd7",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "2d5be999-c392-4ccf-b1ec-5a2a439ef83a",
+      "title": "10/11/四 菲律宾GG家-银河数据-smart-4 1-2（批次）",
+      "site": "PH25",
+      "created_at": "2026-10-11T05:06:39.027Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/11 13:09:59",
+      "completed_sent_at": "2026/10/11 13:09:59",
+      "failure_reason": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (25) - Smart 4/20（5,000 条）",
+      "agent_account": "agmv3d26l6561dd23001",
+      "short_url": "https://168bo.run/9uk3",
+      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://168bo.run/9uk3",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "6a7b9249-c6d8-4076-9439-83aac71fc283",
+      "title": "10/11/三 菲律宾GG家-银河数据-smart-3 1-2（批次）",
+      "site": "PH25",
+      "created_at": "2026-10-11T05:04:31.942Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/11 13:07:44",
+      "completed_sent_at": "2026/10/11 13:07:44",
+      "failure_reason": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (26) - Smart 9/22（5,000 条）",
+      "agent_account": "agmv3czghk2aac898001",
+      "short_url": "https://168kt.run/aq2u",
+      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://168kt.run/aq2u",
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
@@ -41469,30 +41541,6 @@
       ]
     },
     {
-      "plan_id": "2d5be999-c392-4ccf-b1ec-5a2a439ef83a",
-      "title": "10/11/四 菲律宾GG家-银河数据-smart-4 1-2（批次）",
-      "site": "PH25",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": null,
-      "completed_sent_at": "2026/10/11 13:09:59",
-      "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
-      "short_url": "https://168bo.run/9uk3",
-      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://168bo.run/9uk3",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "checked"
-      ]
-    },
-    {
       "plan_id": "d0964a41-2a36-4333-96e1-ed74c306aa18",
       "title": "10/11/四 菲律宾GG家-银河数据-globe-4 1-2（批次）",
       "site": "PH25",
@@ -41637,30 +41685,6 @@
       ]
     },
     {
-      "plan_id": "3b77e70f-2202-4135-9de7-47385b60065d",
-      "title": "10/11/五 菲律宾GG家-银河数据-smart-5 1-2（批次）",
-      "site": "PH25",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": null,
-      "completed_sent_at": "2026/10/11 13:12:37",
-      "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
-      "short_url": "https://sayaone.run/wyd7",
-      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://sayaone.run/wyd7",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "checked"
-      ]
-    },
-    {
       "plan_id": "10affb60-358a-470d-8be7-a90fae2b0512",
       "title": "10/11/五 菲律宾GG家-银河数据-globe-5 1-2（批次）",
       "site": "PH25",
@@ -41773,30 +41797,6 @@
       "agent_account": null,
       "short_url": "https://naku.run/qv2b",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://naku.run/qv2b",
-      "encoding": "GSM-7",
-      "segments": 1,
-      "review_states": [
-        "observed",
-        "checked"
-      ]
-    },
-    {
-      "plan_id": "6a7b9249-c6d8-4076-9439-83aac71fc283",
-      "title": "10/11/三 菲律宾GG家-银河数据-smart-3 1-2（批次）",
-      "site": "PH25",
-      "created_at": null,
-      "status": "已发送",
-      "launch_status": "已发送",
-      "planned_at": null,
-      "sent_at": null,
-      "completed_sent_at": "2026/10/11 13:07:44",
-      "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
-      "agent_account": null,
-      "short_url": "https://168kt.run/aq2u",
-      "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://168kt.run/aq2u",
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [
