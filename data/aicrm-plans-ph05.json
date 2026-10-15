@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "items_schema_version": 2,
+  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "source": "authenticated AICRM built-in full CSV export",
+  "snapshot_status": "partial",
+  "scope_complete": false,
+  "list_status": "complete",
+  "details_status": "partial",
+  "site": "PH05",
+  "observed_total": 4,
+  "item_count": 4,
+  "detail_enriched_count": 4,
+  "field_coverage": {
+    "plan_id": {
+      "present": 1,
+      "total": 4
+    },
+    "failure_reason": {
+      "present": 0,
+      "total": 4
+    },
+    "creator_name": {
+      "present": 1,
+      "total": 4
+    },
+    "phone_pack_title": {
+      "present": 1,
+      "total": 4
+    },
+    "agent_account": {
+      "present": 0,
+      "total": 4
+    },
+    "short_url": {
+      "present": 1,
+      "total": 4
+    },
+    "final_sms_content": {
+      "present": 1,
+      "total": 4
+    }
+  },
+  "details_missing_fields": [
+    "plan_id",
+    "failure_reason",
+    "creator_name",
+    "phone_pack_title",
+    "agent_account",
+    "short_url",
+    "final_sms_content"
+  ],
+  "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
+  "items": [
+    {
+      "plan_id": "f017d6bf-3887-4c2f-836b-1d2ed5f00209",
+      "title": "aa 1-13",
+      "site": "PH05",
+      "created_at": "2026-10-15T08:14:21.582Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/15 16:14:56",
+      "completed_sent_at": "2026/10/15 16:16:14",
+      "failure_reason": null,
+      "batch_task_count": 13,
+      "creator_name": "宇森 - 运营组",
+      "phone_pack_title": "PH05大回流 - Unknown carrier 13/13（131 条）",
+      "agent_account": null,
+      "short_url": "https://mmkbest1.com/rntt5n",
+      "final_sms_content": "A mysterious, exclusive gift has arrived. Log in to your dedicated account to claim it. https://mmkbest1.com/rntt5n",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "PH05用户召回0909 1-13",
+      "site": "PH05",
+      "created_at": "2026-09-09T05:37:56.041Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "PH05+用户召回+20260908 1-16",
+      "site": "PH05",
+      "created_at": "2026-09-08T09:50:54.594Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "银河",
+      "site": "PH05",
+      "created_at": "2026-09-08T05:23:06.224Z",
+      "status": "待发送",
+      "launch_status": "ready",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    }
+  ]
+}

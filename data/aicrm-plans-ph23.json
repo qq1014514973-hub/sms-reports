@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "items_schema_version": 2,
+  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "source": "authenticated AICRM built-in full CSV export",
+  "snapshot_status": "partial",
+  "scope_complete": false,
+  "list_status": "complete",
+  "details_status": "partial",
+  "site": "PH23",
+  "observed_total": 8,
+  "item_count": 8,
+  "detail_enriched_count": 8,
+  "field_coverage": {
+    "plan_id": {
+      "present": 6,
+      "total": 8
+    },
+    "failure_reason": {
+      "present": 0,
+      "total": 8
+    },
+    "creator_name": {
+      "present": 0,
+      "total": 8
+    },
+    "phone_pack_title": {
+      "present": 0,
+      "total": 8
+    },
+    "agent_account": {
+      "present": 0,
+      "total": 8
+    },
+    "short_url": {
+      "present": 6,
+      "total": 8
+    },
+    "final_sms_content": {
+      "present": 6,
+      "total": 8
+    }
+  },
+  "details_missing_fields": [
+    "plan_id",
+    "failure_reason",
+    "creator_name",
+    "phone_pack_title",
+    "agent_account",
+    "short_url",
+    "final_sms_content"
+  ],
+  "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
+  "items": [
+    {
+      "plan_id": "27792b17-01a7-496e-b144-1c74a7970811",
+      "title": "20261001-PH23-阿正 - 运营组-499-C7E1",
+      "site": "PH23",
+      "created_at": "2026-10-01T08:39:48.603Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "2026/10/01 17:53:00",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/acts",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/acts",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "684c1e94-2f55-4e1a-ba39-b151f79689ea",
+      "title": "20261001-PH23-阿正 - 运营组-289-Y11D",
+      "site": "PH23",
+      "created_at": "2026-10-01T08:39:04.999Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "2026/10/01 17:46:58",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/a398",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/a398",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "39fda409-bc86-428f-9606-fd664a62dc08",
+      "title": "20261001-PH23-阿正 - 运营组-554-U4ZJ",
+      "site": "PH23",
+      "created_at": "2026-10-01T08:38:29.751Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "2026/10/01 17:45:58",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/k6sw",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/k6sw",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "e48eb383-163e-4d16-a524-5c78adcd45e8",
+      "title": "20261001-PH23-阿正 - 运营组-1000-Q3S9",
+      "site": "PH23",
+      "created_at": "2026-10-01T05:40:11.072Z",
+      "status": "待发送",
+      "launch_status": "ready",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "—",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/100r",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/100r",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "505a391a-e28e-4917-ada5-5a92c302ffac",
+      "title": "20261001-PH23-阿正 - 运营组-594-O4VV",
+      "site": "PH23",
+      "created_at": "2026-10-01T05:38:43.975Z",
+      "status": "待发送",
+      "launch_status": "ready",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "—",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/1kgn",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/1kgn",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "8a500261-9c96-4141-bb39-b70c4914b6da",
+      "title": "20261001-PH23-阿正 - 运营组-531-S9AU",
+      "site": "PH23",
+      "created_at": "2026-10-01T05:37:28.083Z",
+      "status": "待发送",
+      "launch_status": "ready",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": "—",
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": "https://3go.run/f3lv",
+      "final_sms_content": "Mag-l0g in para makuha ang iyong Gundam P1888 mystery r3ward https://3go.run/f3lv",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "9/1-3-60全站回流-globe 1-8",
+      "site": "PH23",
+      "created_at": "2026-09-01T08:06:38.659Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "9/1-3-60全站回流-smart 1-7",
+      "site": "PH23",
+      "created_at": "2026-09-01T08:05:33.102Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "schema_version": 2,
+  "items_schema_version": 2,
+  "generated_at": "2026-10-15T09:17:56.474006Z",
+  "source": "authenticated AICRM built-in full CSV export",
+  "snapshot_status": "partial",
+  "scope_complete": false,
+  "list_status": "complete",
+  "details_status": "partial",
+  "site": "PHAG",
+  "observed_total": 7,
+  "item_count": 7,
+  "detail_enriched_count": 7,
+  "field_coverage": {
+    "plan_id": {
+      "present": 0,
+      "total": 7
+    },
+    "failure_reason": {
+      "present": 0,
+      "total": 7
+    },
+    "creator_name": {
+      "present": 0,
+      "total": 7
+    },
+    "phone_pack_title": {
+      "present": 0,
+      "total": 7
+    },
+    "agent_account": {
+      "present": 0,
+      "total": 7
+    },
+    "short_url": {
+      "present": 0,
+      "total": 7
+    },
+    "final_sms_content": {
+      "present": 0,
+      "total": 7
+    }
+  },
+  "details_missing_fields": [
+    "plan_id",
+    "failure_reason",
+    "creator_name",
+    "phone_pack_title",
+    "agent_account",
+    "short_url",
+    "final_sms_content"
+  ],
+  "notes": "The CSV fully covers this instance list but omits plan_id, failure_reason, phone_pack_title, agent_account, short_url and final_sms_content. Its creator column is email-only and is not published as creator_name. Verified cached details were merged only on an unambiguous title/created_at match; all other values are null.",
+  "items": [
+    {
+      "plan_id": null,
+      "title": "20260902-PHAG-吉米 - 运营组-5000-V92J",
+      "site": "PHAG",
+      "created_at": "2026-09-02T06:01:41.968Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260901-PHAG-吉米 - 运营组-133-T56J",
+      "site": "PHAG",
+      "created_at": "2026-09-01T12:21:35.962Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260901-PHAG-吉米 - 运营组-196-X5HZ",
+      "site": "PHAG",
+      "created_at": "2026-09-01T07:02:18.440Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260901-PHAG-吉米 - 运营组-1996-E26J",
+      "site": "PHAG",
+      "created_at": "2026-09-01T05:30:43.303Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260831-PHAG-吉米 - 运营组-5000-Y1B1",
+      "site": "PHAG",
+      "created_at": "2026-08-31T11:32:02.268Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260831-PHAG-吉米 - 运营组-1203-T7JV",
+      "site": "PHAG",
+      "created_at": "2026-08-31T11:22:38.174Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    },
+    {
+      "plan_id": null,
+      "title": "20260831-PHAG-吉米 - 运营组-1032-G2K7",
+      "site": "PHAG",
+      "created_at": "2026-08-31T09:47:45.641Z",
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": null,
+      "completed_sent_at": null,
+      "failure_reason": null,
+      "batch_task_count": null,
+      "creator_name": null,
+      "phone_pack_title": null,
+      "agent_account": null,
+      "short_url": null,
+      "final_sms_content": null,
+      "encoding": null,
+      "segments": null,
+      "review_states": [
+        "observed"
+      ]
+    }
+  ]
+}

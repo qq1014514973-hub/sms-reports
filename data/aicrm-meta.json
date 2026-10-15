@@ -1,14 +1,1276 @@
 {
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T09:05:44.919575Z",
+  "generated_at": "2026-10-15T09:17:56.474006Z",
   "mode": "full",
   "last_full_at": null,
   "coverage": {
-    "instances_done": 0,
+    "instances_done": 34,
     "instances_total": 34
   },
   "observed_total": 8232,
-  "exported_total": 2095,
+  "exported_total": 8232,
   "errors_count": 2,
-  "notes": "Latest page unchanged at total 8232. Pages 4-6 read and compared with existing PH baseline: no new plan or list status change. Two old details still show 未找到. Full coverage remains partial."
+  "notes": "All 34 instance lists are present. Detail enrichment remains partial because the built-in CSV does not expose plan_id, failure_reason, phone_pack_title, agent_account, short_url or final_sms_content; its email-only creator column is not published as creator_name. Unavailable values are null, never inferred.",
+  "snapshot_status": "partial",
+  "details_status": "partial",
+  "instances": [
+    {
+      "site": "BD02",
+      "file": "aicrm-plans-bd02.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 693,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 693
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 693
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 693
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 693
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 693
+        },
+        "short_url": {
+          "present": 0,
+          "total": 693
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 693
+        }
+      }
+    },
+    {
+      "site": "BD05",
+      "file": "aicrm-plans-bd05.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 411,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 411
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 411
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 411
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 411
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 411
+        },
+        "short_url": {
+          "present": 0,
+          "total": 411
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 411
+        }
+      }
+    },
+    {
+      "site": "BD09",
+      "file": "aicrm-plans-bd09.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 332,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 332
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 332
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 332
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 332
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 332
+        },
+        "short_url": {
+          "present": 0,
+          "total": 332
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 332
+        }
+      }
+    },
+    {
+      "site": "BD11",
+      "file": "aicrm-plans-bd11.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 299,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 299
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 299
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 299
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 299
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 299
+        },
+        "short_url": {
+          "present": 0,
+          "total": 299
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 299
+        }
+      }
+    },
+    {
+      "site": "BD18",
+      "file": "aicrm-plans-bd18.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 28,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 28
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 28
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 28
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 28
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 28
+        },
+        "short_url": {
+          "present": 0,
+          "total": 28
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 28
+        }
+      }
+    },
+    {
+      "site": "MM00",
+      "file": "aicrm-plans-mm00.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 129,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 129
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 129
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 129
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 129
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 129
+        },
+        "short_url": {
+          "present": 0,
+          "total": 129
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 129
+        }
+      }
+    },
+    {
+      "site": "MM01",
+      "file": "aicrm-plans-mm01.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 3,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 3
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 3
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 3
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 3
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 3
+        },
+        "short_url": {
+          "present": 0,
+          "total": 3
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 3
+        }
+      }
+    },
+    {
+      "site": "MM02",
+      "file": "aicrm-plans-mm02.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 29,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 29
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 29
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 29
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 29
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 29
+        },
+        "short_url": {
+          "present": 0,
+          "total": 29
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 29
+        }
+      }
+    },
+    {
+      "site": "MM03",
+      "file": "aicrm-plans-mm03.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 66,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 66
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 66
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 66
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 66
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 66
+        },
+        "short_url": {
+          "present": 0,
+          "total": 66
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 66
+        }
+      }
+    },
+    {
+      "site": "MM05",
+      "file": "aicrm-plans-mm05.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 28,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 28
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 28
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 28
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 28
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 28
+        },
+        "short_url": {
+          "present": 0,
+          "total": 28
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 28
+        }
+      }
+    },
+    {
+      "site": "MM07",
+      "file": "aicrm-plans-mm07.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 75,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 75
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 75
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 75
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 75
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 75
+        },
+        "short_url": {
+          "present": 0,
+          "total": 75
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 75
+        }
+      }
+    },
+    {
+      "site": "MM21",
+      "file": "aicrm-plans-mm21.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 3,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 3
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 3
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 3
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 3
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 3
+        },
+        "short_url": {
+          "present": 0,
+          "total": 3
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 3
+        }
+      }
+    },
+    {
+      "site": "MX01",
+      "file": "aicrm-plans-mx01.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 35,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 35
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 35
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 35
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 35
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 35
+        },
+        "short_url": {
+          "present": 0,
+          "total": 35
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 35
+        }
+      }
+    },
+    {
+      "site": "PH01",
+      "file": "aicrm-plans-ph01.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 58,
+      "field_coverage": {
+        "plan_id": {
+          "present": 11,
+          "total": 58
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 58
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 58
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 58
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 58
+        },
+        "short_url": {
+          "present": 0,
+          "total": 58
+        },
+        "final_sms_content": {
+          "present": 11,
+          "total": 58
+        }
+      }
+    },
+    {
+      "site": "PH03",
+      "file": "aicrm-plans-ph03.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 21,
+      "field_coverage": {
+        "plan_id": {
+          "present": 15,
+          "total": 21
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 21
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 21
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 21
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 21
+        },
+        "short_url": {
+          "present": 9,
+          "total": 21
+        },
+        "final_sms_content": {
+          "present": 15,
+          "total": 21
+        }
+      }
+    },
+    {
+      "site": "PH05",
+      "file": "aicrm-plans-ph05.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 4,
+      "field_coverage": {
+        "plan_id": {
+          "present": 1,
+          "total": 4
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 4
+        },
+        "creator_name": {
+          "present": 1,
+          "total": 4
+        },
+        "phone_pack_title": {
+          "present": 1,
+          "total": 4
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 4
+        },
+        "short_url": {
+          "present": 1,
+          "total": 4
+        },
+        "final_sms_content": {
+          "present": 1,
+          "total": 4
+        }
+      }
+    },
+    {
+      "site": "PH07",
+      "file": "aicrm-plans-ph07.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 43,
+      "field_coverage": {
+        "plan_id": {
+          "present": 1,
+          "total": 43
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 43
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 43
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 43
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 43
+        },
+        "short_url": {
+          "present": 1,
+          "total": 43
+        },
+        "final_sms_content": {
+          "present": 1,
+          "total": 43
+        }
+      }
+    },
+    {
+      "site": "PH09",
+      "file": "aicrm-plans-ph09.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 540,
+      "field_coverage": {
+        "plan_id": {
+          "present": 35,
+          "total": 540
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 540
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 540
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 540
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 540
+        },
+        "short_url": {
+          "present": 30,
+          "total": 540
+        },
+        "final_sms_content": {
+          "present": 35,
+          "total": 540
+        }
+      }
+    },
+    {
+      "site": "PH11",
+      "file": "aicrm-plans-ph11.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 142,
+      "field_coverage": {
+        "plan_id": {
+          "present": 71,
+          "total": 142
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 142
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 142
+        },
+        "phone_pack_title": {
+          "present": 1,
+          "total": 142
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 142
+        },
+        "short_url": {
+          "present": 71,
+          "total": 142
+        },
+        "final_sms_content": {
+          "present": 71,
+          "total": 142
+        }
+      }
+    },
+    {
+      "site": "PH16",
+      "file": "aicrm-plans-ph16.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 53,
+      "field_coverage": {
+        "plan_id": {
+          "present": 2,
+          "total": 53
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 53
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 53
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 53
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 53
+        },
+        "short_url": {
+          "present": 2,
+          "total": 53
+        },
+        "final_sms_content": {
+          "present": 2,
+          "total": 53
+        }
+      }
+    },
+    {
+      "site": "PH18",
+      "file": "aicrm-plans-ph18.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 244,
+      "field_coverage": {
+        "plan_id": {
+          "present": 44,
+          "total": 244
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 244
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 244
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 244
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 244
+        },
+        "short_url": {
+          "present": 42,
+          "total": 244
+        },
+        "final_sms_content": {
+          "present": 44,
+          "total": 244
+        }
+      }
+    },
+    {
+      "site": "PH21",
+      "file": "aicrm-plans-ph21.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 637,
+      "field_coverage": {
+        "plan_id": {
+          "present": 89,
+          "total": 637
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 637
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 637
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 637
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 637
+        },
+        "short_url": {
+          "present": 0,
+          "total": 637
+        },
+        "final_sms_content": {
+          "present": 89,
+          "total": 637
+        }
+      }
+    },
+    {
+      "site": "PH22",
+      "file": "aicrm-plans-ph22.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 31,
+      "field_coverage": {
+        "plan_id": {
+          "present": 16,
+          "total": 31
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 31
+        },
+        "creator_name": {
+          "present": 1,
+          "total": 31
+        },
+        "phone_pack_title": {
+          "present": 1,
+          "total": 31
+        },
+        "agent_account": {
+          "present": 1,
+          "total": 31
+        },
+        "short_url": {
+          "present": 2,
+          "total": 31
+        },
+        "final_sms_content": {
+          "present": 16,
+          "total": 31
+        }
+      }
+    },
+    {
+      "site": "PH23",
+      "file": "aicrm-plans-ph23.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 8,
+      "field_coverage": {
+        "plan_id": {
+          "present": 6,
+          "total": 8
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 8
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 8
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 8
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 8
+        },
+        "short_url": {
+          "present": 6,
+          "total": 8
+        },
+        "final_sms_content": {
+          "present": 6,
+          "total": 8
+        }
+      }
+    },
+    {
+      "site": "PH25",
+      "file": "aicrm-plans-ph25.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 310,
+      "field_coverage": {
+        "plan_id": {
+          "present": 260,
+          "total": 310
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 310
+        },
+        "creator_name": {
+          "present": 7,
+          "total": 310
+        },
+        "phone_pack_title": {
+          "present": 17,
+          "total": 310
+        },
+        "agent_account": {
+          "present": 33,
+          "total": 310
+        },
+        "short_url": {
+          "present": 260,
+          "total": 310
+        },
+        "final_sms_content": {
+          "present": 260,
+          "total": 310
+        }
+      }
+    },
+    {
+      "site": "PH30",
+      "file": "aicrm-plans-ph30.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 1213,
+      "field_coverage": {
+        "plan_id": {
+          "present": 602,
+          "total": 1213
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 1213
+        },
+        "creator_name": {
+          "present": 3,
+          "total": 1213
+        },
+        "phone_pack_title": {
+          "present": 12,
+          "total": 1213
+        },
+        "agent_account": {
+          "present": 11,
+          "total": 1213
+        },
+        "short_url": {
+          "present": 80,
+          "total": 1213
+        },
+        "final_sms_content": {
+          "present": 602,
+          "total": 1213
+        }
+      }
+    },
+    {
+      "site": "PH31",
+      "file": "aicrm-plans-ph31.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 1663,
+      "field_coverage": {
+        "plan_id": {
+          "present": 481,
+          "total": 1663
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 1663
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 1663
+        },
+        "phone_pack_title": {
+          "present": 12,
+          "total": 1663
+        },
+        "agent_account": {
+          "present": 17,
+          "total": 1663
+        },
+        "short_url": {
+          "present": 459,
+          "total": 1663
+        },
+        "final_sms_content": {
+          "present": 481,
+          "total": 1663
+        }
+      }
+    },
+    {
+      "site": "PH33",
+      "file": "aicrm-plans-ph33.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 140,
+      "field_coverage": {
+        "plan_id": {
+          "present": 25,
+          "total": 140
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 140
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 140
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 140
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 140
+        },
+        "short_url": {
+          "present": 25,
+          "total": 140
+        },
+        "final_sms_content": {
+          "present": 25,
+          "total": 140
+        }
+      }
+    },
+    {
+      "site": "PH35",
+      "file": "aicrm-plans-ph35.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 687,
+      "field_coverage": {
+        "plan_id": {
+          "present": 74,
+          "total": 687
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 687
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 687
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 687
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 687
+        },
+        "short_url": {
+          "present": 74,
+          "total": 687
+        },
+        "final_sms_content": {
+          "present": 74,
+          "total": 687
+        }
+      }
+    },
+    {
+      "site": "PHAG",
+      "file": "aicrm-plans-phag.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 7,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 7
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 7
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 7
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 7
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 7
+        },
+        "short_url": {
+          "present": 0,
+          "total": 7
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "site": "PHWORLD02",
+      "file": "aicrm-plans-phworld02.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 145,
+      "field_coverage": {
+        "plan_id": {
+          "present": 41,
+          "total": 145
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 145
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 145
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 145
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 145
+        },
+        "short_url": {
+          "present": 41,
+          "total": 145
+        },
+        "final_sms_content": {
+          "present": 41,
+          "total": 145
+        }
+      }
+    },
+    {
+      "site": "PK01",
+      "file": "aicrm-plans-pk01.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 130,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 130
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 130
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 130
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 130
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 130
+        },
+        "short_url": {
+          "present": 0,
+          "total": 130
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 130
+        }
+      }
+    },
+    {
+      "site": "PK05",
+      "file": "aicrm-plans-pk05.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 2,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 2
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 2
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 2
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 2
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 2
+        },
+        "short_url": {
+          "present": 0,
+          "total": 2
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 2
+        }
+      }
+    },
+    {
+      "site": "TH18",
+      "file": "aicrm-plans-th18.json",
+      "list_status": "complete",
+      "details_status": "partial",
+      "item_count": 23,
+      "field_coverage": {
+        "plan_id": {
+          "present": 0,
+          "total": 23
+        },
+        "failure_reason": {
+          "present": 0,
+          "total": 23
+        },
+        "creator_name": {
+          "present": 0,
+          "total": 23
+        },
+        "phone_pack_title": {
+          "present": 0,
+          "total": 23
+        },
+        "agent_account": {
+          "present": 0,
+          "total": 23
+        },
+        "short_url": {
+          "present": 0,
+          "total": 23
+        },
+        "final_sms_content": {
+          "present": 0,
+          "total": 23
+        }
+      }
+    }
+  ]
 }
