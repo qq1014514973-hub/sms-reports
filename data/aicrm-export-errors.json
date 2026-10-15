@@ -1,14 +1,14 @@
 [
   {
-    "at": "2026-10-15T06:31:57.706Z",
-    "what": "read final SMS detail",
+    "at": "2026-10-15T06:45:29.453Z",
+    "what": "plan_detail:fd6edf84-13dd-4940-be0e-af662a5f15a0",
     "instance": "PH35",
-    "error": "AICRM detail displayed 未找到 for plan fd6edf84-13dd-4940-be0e-af662a5f15a0"
+    "error": "详情显示未找到，最终短信文案无法读取"
   },
   {
-    "at": "2026-10-15T06:31:57.706Z",
-    "what": "read final SMS detail",
+    "at": "2026-10-15T06:45:29.453Z",
+    "what": "plan_detail:e4314b8e-293e-438d-8f60-21e1cec9dc72",
     "instance": "PH31",
-    "error": "AICRM detail displayed 未找到 for plan e4314b8e-293e-438d-8f60-21e1cec9dc72"
+    "error": "详情显示未找到，最终短信文案无法读取"
   }
 ]
