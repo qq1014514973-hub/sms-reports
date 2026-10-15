@@ -1,18 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T08:04:34.096625Z",
-  "snapshot_updated_at": "2026-10-15T08:04:24.684Z",
+  "generated_at": "2026-10-15T08:23:28.447063Z",
+  "snapshot_updated_at": "2026-10-15T08:22:31.813Z",
   "source": "authenticated Chrome read-only AICRM monitor state",
   "snapshot_status": "partial",
   "scope_complete": false,
-  "observed_campaign_total": 8225,
+  "observed_campaign_total": 8226,
   "pages_read": [
     1,
-    2
+    2,
+    3,
+    4
   ],
-  "rows_read": 40,
-  "note": "Latest page 1 contains one new MM plan and the same 10 visible PH plans; page 2 contains 14 previously checked PH plans. Total changed to 8225, so daily scan restarted at pages 1-2. Two older details still display 未找到; pages 3-412 and 34 instances remain.",
-  "item_count": 2094,
+  "rows_read": 80,
+  "note": "New PH05 plan aa 1-13 checked from final SMS: 115 GSM-7 septets, 1 segment. Total changed 8225 to 8226, so full scan restarted and pages 1-4 covered at 8226. Older PH35/PH31 details still show 未找到. Pages 5-412 and 34 instances remain.",
+  "item_count": 2095,
   "items": [
     {
       "plan_id": "6bad7275-8c42-4a0d-8a52-da011a73d5b5",
@@ -48478,6 +48480,30 @@
       "agent_account": null,
       "short_url": null,
       "final_sms_content": "Huy ikaw to! 50FR3E SP1NS 15888P Extra B0nu5 Naka-Ready para say0 https://sw.run/uEz8m",
+      "encoding": "GSM-7",
+      "segments": 1,
+      "review_states": [
+        "observed",
+        "checked"
+      ]
+    },
+    {
+      "plan_id": "f017d6bf-3887-4c2f-836b-1d2ed5f00209",
+      "title": "aa 1-13（批次）",
+      "site": "PH05",
+      "created_at": null,
+      "status": "已发送",
+      "launch_status": "已发送",
+      "planned_at": null,
+      "sent_at": "2026/10/15 16:14:56",
+      "completed_sent_at": "2026/10/15 16:16:14",
+      "failure_reason": null,
+      "batch_task_count": 13,
+      "creator_name": "宇森 - 运营组",
+      "phone_pack_title": "PH05大回流 - Unknown carrier 13/13（131 条）",
+      "agent_account": null,
+      "short_url": "https://mmkbest1.com/rntt5n",
+      "final_sms_content": "A mysterious, exclusive gift has arrived. Log in to your dedicated account to claim it. https://mmkbest1.com/rntt5n",
       "encoding": "GSM-7",
       "segments": 1,
       "review_states": [

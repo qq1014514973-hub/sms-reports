@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T08:04:34.096625Z",
+  "generated_at": "2026-10-15T08:23:28.447063Z",
   "mode": "full",
   "last_full_at": null,
   "coverage": {
     "instances_done": 0,
     "instances_total": 34
   },
-  "observed_total": 8225,
-  "exported_total": 2094,
+  "observed_total": 8226,
+  "exported_total": 2095,
   "errors_count": 2,
-  "notes": "Latest page 1 contains one new MM plan and the same 10 visible PH plans; page 2 contains 14 previously checked PH plans. Total changed to 8225, so daily scan restarted at pages 1-2. Two older details still display 未找到; pages 3-412 and 34 instances remain."
+  "notes": "New PH05 plan aa 1-13 checked from final SMS: 115 GSM-7 septets, 1 segment. Total changed 8225 to 8226, so full scan restarted and pages 1-4 covered at 8226. Older PH35/PH31 details still show 未找到. Pages 5-412 and 34 instances remain."
 }
