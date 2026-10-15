@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "items_schema_version": 2,
-  "generated_at": "2026-10-15T14:44:16.508670Z",
+  "generated_at": "2026-10-15T14:58:52.014518Z",
   "source": "authenticated AICRM CSV baseline and read-only plan observations",
   "snapshot_status": "partial",
   "scope_complete": false,
@@ -21,11 +21,11 @@
       "total": 310
     },
     "creator_name": {
-      "present": 26,
+      "present": 28,
       "total": 310
     },
     "phone_pack_title": {
-      "present": 26,
+      "present": 28,
       "total": 310
     },
     "agent_account": {
@@ -1309,11 +1309,11 @@
       "launch_status": "已发送",
       "planned_at": null,
       "sent_at": "2026/10/13 13:29:45",
-      "completed_sent_at": null,
+      "completed_sent_at": "2026/10/13 13:30:14",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
+      "batch_task_count": 5,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (41) - Globe 20/20（2,257 条）",
       "agent_account": "agmv68ope89b2c23e001",
       "short_url": "https://588bo.run/ueec",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://588bo.run/ueec",
@@ -1333,11 +1333,11 @@
       "launch_status": "已发送",
       "planned_at": null,
       "sent_at": "2026/10/13 13:28:14",
-      "completed_sent_at": null,
+      "completed_sent_at": "2026/10/13 13:28:14",
       "failure_reason": null,
-      "batch_task_count": null,
-      "creator_name": null,
-      "phone_pack_title": null,
+      "batch_task_count": 2,
+      "creator_name": "阿正 - 运营组",
+      "phone_pack_title": "银河数据0904无视点击，直接发 (23) - Globe 18/20（5,000 条）",
       "agent_account": "agmv68m38oc1ed5a9001",
       "short_url": "https://naku.run/z7yv",
       "final_sms_content": "ikaw ang napili today! Wild Bounty gives 30 FREE SP1NS + 120% extra b0nus for you: https://naku.run/z7yv",
