@@ -1,6 +1,6 @@
 {
   "site": "BD02",
-  "report_time": "2026-10-15 23:02:20",
+  "report_time": "2026-10-15 23:32:19",
   "persons": [
     {
       "name": "芋头",
@@ -17,8 +17,8 @@
     {
       "name": "小刀",
       "send": 125009,
-      "l1_first_deposit": 74,
-      "l1_per10k": 5.9
+      "l1_first_deposit": 81,
+      "l1_per10k": 6.5
     }
   ]
 }
