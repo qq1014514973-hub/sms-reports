@@ -1,14 +1,14 @@
 [
   {
-    "at": "2026-10-15T07:02:03.016Z",
-    "what": "plan_detail:fd6edf84-13dd-4940-be0e-af662a5f15a0",
+    "at": "2026-10-15T07:17:34.638Z",
+    "what": "plan_detail_unavailable",
     "instance": "PH35",
-    "error": "详情显示未找到，最终短信文案无法读取"
+    "error": "Plan detail displayed 未找到; final SMS content unavailable."
   },
   {
-    "at": "2026-10-15T07:02:03.016Z",
-    "what": "plan_detail:e4314b8e-293e-438d-8f60-21e1cec9dc72",
+    "at": "2026-10-15T07:17:34.638Z",
+    "what": "plan_detail_unavailable",
     "instance": "PH31",
-    "error": "详情显示未找到，最终短信文案无法读取"
+    "error": "Plan detail displayed 未找到; final SMS content unavailable."
   }
 ]
