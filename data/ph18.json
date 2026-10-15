@@ -1,6 +1,6 @@
 {
   "site": "PH18",
-  "report_time": "2026-10-15 20:33:32",
+  "report_time": "2026-10-15 21:02:09",
   "persons": [
     {
       "name": "YOYO老后台",
@@ -17,7 +17,7 @@
     {
       "name": "莹莹老后台",
       "send": 0,
-      "l1_first_deposit": 1,
+      "l1_first_deposit": 2,
       "l1_per10k": 0
     }
   ]
