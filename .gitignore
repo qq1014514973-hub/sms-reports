@@ -1,0 +1,5 @@
+# Operational report images are transient OCR inputs and must never be published.
+*.png
+*.jpg
+*.jpeg
+*.webp
