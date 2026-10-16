@@ -1,11 +1,11 @@
 {
   "site": "MM07",
-  "report_time": "2026-10-16 12:04:51",
+  "report_time": "2026-10-16 12:32:16",
   "persons": [
     {
       "name": "阿西",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 2,
       "l1_per10k": 0
     },
     {
