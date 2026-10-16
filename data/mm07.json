@@ -1,18 +1,12 @@
 {
   "site": "MM07",
-  "report_time": "2026-10-16 15:32:49",
+  "report_time": "2026-10-15 全天",
   "persons": [
     {
-      "name": "阿西",
-      "send": 0,
-      "l1_first_deposit": 3,
-      "l1_per10k": 0
-    },
-    {
-      "name": "wtt689",
-      "send": 0,
-      "l1_first_deposit": 10,
-      "l1_per10k": 0
+      "name": "mm07AFRICAN",
+      "send": 71120,
+      "l1_first_deposit": 62,
+      "l1_per10k": 8.7
     }
   ]
 }
