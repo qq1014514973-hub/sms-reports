@@ -1,12 +1,12 @@
 {
   "site": "PH25",
-  "report_time": "2026-10-14 全天",
+  "report_time": "2026-10-15 全天",
   "persons": [
     {
       "name": "阿正",
-      "send": 214150,
+      "send": 199127,
       "l1_first_deposit": 72,
-      "l1_per10k": 3.4
+      "l1_per10k": 3.6
     }
   ]
 }
