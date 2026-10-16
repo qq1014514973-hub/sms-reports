@@ -1,11 +1,17 @@
 {
   "site": "PH09",
-  "report_time": "2026-10-15 23:33:32",
+  "report_time": "2026-10-16 12:05:02",
   "persons": [
+    {
+      "name": "张总",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
     {
       "name": "小木老后台",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     },
     {
