@@ -1,8 +1,12 @@
 {
   "site": "MX01",
-  "report_time": "2026-10-13 全天",
+  "report_time": "2026-10-15 全天",
   "persons": [
-    {"name": "小高", "send": 0, "l1_first_deposit": 0, "l1_per10k": 0},
-    {"name": "威龙", "send": 51422, "l1_first_deposit": 0, "l1_per10k": 0}
+    {
+      "name": "威龙",
+      "send": 29875,
+      "l1_first_deposit": 3,
+      "l1_per10k": 1.0
+    }
   ]
 }
