@@ -1,9 +1,9 @@
 {
-  "at": "2026-10-17T14:26:14+08:00",
-  "round": "refresh",
-  "jobs_done": [],
-  "jobs_failed": [
-    "pack_upload_mx01"
+  "at": "2026-10-17T14:27:00+08:00",
+  "round": "telegram-2-2026-10-17T14:22:12+08:00",
+  "jobs_done": [
+    "forward_daily_summary_20261016"
   ],
-  "notes": "MX01 上传未提交：用户表示已开启 Chrome 扩展的‘允许访问文件网址’，但重连浏览器会话后扩展仍报权限未开启，需在同一 Chrome 配置中重载扩展或重启 Chrome。已确认校验 PASS、SHA-256 一致、未入账、Hermes 明确放行，名称为‘威龙专用’。实际访问页面：/phone-packs/one-click。未选择文件、未提交表单、未写 pack-ledger.json。"
+  "jobs_failed": [],
+  "notes": "已从短信数据测试群核对源消息 67863，将 final_sms_group_daily_detail_active_20261016.png 补发至万能短信营销系统 - 技术窗口群、短信推广组 - 万能短信内部任务、AAA万能短信—--数据分析群；AAA 群已艾特 @haiyang4567891。已写入去重状态并删除本次下载的临时图片。实际访问页面：Telegram Web 短信数据测试群、万能短信营销系统 - 技术窗口群。"
 }
