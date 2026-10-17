@@ -1,9 +1,30 @@
 {
-  "at": "2026-10-17T12:14:28+08:00",
-  "site": "MX01",
-  "file_name": "10.9墨西哥my.txt",
-  "file_sha256": "c0b33ec31d2be0c8a56209077be8de6144339be34ade8475889c55340202f510",
-  "count": 9998,
-  "verdict": "PASS",
-  "blockers": []
+ "file": "10.9墨西哥my.txt",
+ "sha256": "c0b33ec31d2be0c8a56209077be8de6144339be34ade8475889c55340202f510",
+ "site": "MX01",
+ "country_code": "52",
+ "file_size_mb": 0.13,
+ "lines": 10000,
+ "blank_lines": 0,
+ "valid_after_clean": 9998,
+ "unique": 9998,
+ "duplicates_in_file": 0,
+ "country_code_mode": "含国别号",
+ "with_cc": 9998,
+ "without_cc": 0,
+ "cc_mismatch_count": 0,
+ "cc_mismatch_samples": [],
+ "length_distribution": {
+  "10": 2,
+  "11": 13,
+  "12": 9971,
+  "13": 12
+ },
+ "packs_needed": 1,
+ "upload_count": 9998,
+ "verdict": "PASS",
+ "blockers": [],
+ "warnings": [
+  "含非数字字符 0 条 / 过短 2 条（已剔除）"
+ ]
 }

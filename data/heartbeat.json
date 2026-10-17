@@ -1,9 +1,11 @@
 {
-  "at": "2026-10-17T12:14:28+08:00",
+  "at": "2026-10-17T12:19:19+08:00",
   "round": "refresh",
   "jobs_done": [
-    "pack_check_mx01"
+    "pack_check_full_json_mx01"
   ],
-  "jobs_failed": [],
-  "notes": "任务 B 完成：MX01 校验 PASS，去重后有效号码 9998 条，需要 1 个号码包；2 条过短号码已由校验器剔除。未上传号码包，原始号码未写入公共仓库。"
+  "jobs_failed": [
+    "pool_options_read"
+  ],
+  "notes": "任务 B 已用 number_pack_check.py 原样输出完整 JSON。任务 A 只读访问了 /campaigns、/phone-packs、/phone-packs/one-click；上传页未显示“勾选号码组”字段，仅显示未选择的目标包源池。因禁止选择或改字段，已停止且未猜测。未提交、未上传。"
 }
