@@ -1,11 +1,9 @@
 {
-  "at": "2026-10-17T01:01:10+08:00",
-  "round": "telegram-2026-10-17T01:01:10+08:00",
+  "at": "2026-10-17T12:14:28+08:00",
+  "round": "refresh",
   "jobs_done": [
-    "telegram_backfill_checked",
-    "daily_report_images_exported",
-    "anomaly_manifest_checked"
+    "pack_check_mx01"
   ],
   "jobs_failed": [],
-  "notes": "本轮未发现 2026-10-17 新的来源消息或人员报表图片；异常列表为空，未发送群消息。"
+  "notes": "任务 B 完成：MX01 校验 PASS，去重后有效号码 9998 条，需要 1 个号码包；2 条过短号码已由校验器剔除。未上传号码包，原始号码未写入公共仓库。"
 }
