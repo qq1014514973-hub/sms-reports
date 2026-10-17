@@ -1,12 +1,12 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-15 全天",
+  "report_time": "2026-10-16 全天",
   "persons": [
     {
-      "name": "大陈",
-      "send": 30000,
-      "l1_first_deposit": 10,
-      "l1_per10k": 3.3
+      "name": "威龙",
+      "send": 20000,
+      "l1_first_deposit": 3,
+      "l1_per10k": 1.5
     }
   ]
 }
