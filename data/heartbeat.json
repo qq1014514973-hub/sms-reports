@@ -1,11 +1,9 @@
 {
-  "at": "2026-10-17T12:19:19+08:00",
+  "at": "2026-10-17T13:41:39+08:00",
   "round": "refresh",
-  "jobs_done": [
-    "pack_check_full_json_mx01"
-  ],
+  "jobs_done": [],
   "jobs_failed": [
-    "pool_options_read"
+    "pack_upload_mx01"
   ],
-  "notes": "任务 B 已用 number_pack_check.py 原样输出完整 JSON。任务 A 只读访问了 /campaigns、/phone-packs、/phone-packs/one-click；上传页未显示“勾选号码组”字段，仅显示未选择的目标包源池。因禁止选择或改字段，已停止且未猜测。未提交、未上传。"
+  "notes": "MX01 上传未提交：Chrome 扩展未开启‘允许访问文件网址’，文件选择被拦截。已确认校验 PASS、SHA-256 一致、未入账、Hermes 明确放行，名称为‘威龙专用’。实际访问页面：/phone-packs/one-click。未选择文件、未提交表单、未写 pack-ledger.json。"
 }
