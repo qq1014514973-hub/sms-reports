@@ -1,9 +1,11 @@
 {
-  "at": "2026-10-17T14:27:00+08:00",
-  "round": "telegram-2-2026-10-17T14:22:12+08:00",
+  "at": "2026-10-17T15:26:15+08:00",
+  "round": "refresh",
   "jobs_done": [
-    "forward_daily_summary_20261016"
+    "read_mx01_pack_upload_result"
   ],
-  "jobs_failed": [],
-  "notes": "已从短信数据测试群核对源消息 67863，将 final_sms_group_daily_detail_active_20261016.png 补发至万能短信营销系统 - 技术窗口群、短信推广组 - 万能短信内部任务、AAA万能短信—--数据分析群；AAA 群已艾特 @haiyang4567891。已写入去重状态并删除本次下载的临时图片。实际访问页面：Telegram Web 短信数据测试群、万能短信营销系统 - 技术窗口群。"
+  "jobs_failed": [
+    "mx01_pack_upload_validation"
+  ],
+  "notes": "只读访问 /phone-packs/one-click 和 /phone-packs。任务 c9f72fec-5f87-45fd-9ffb-e6c28bc858bc 已生成 3 包：Unknown carrier 9994、Telcel 2、AT&T 1，实际合计 9997；与放行数量 9998 不一致。页面原文件名为 墨西哥_10000_yg.txt，与放行文件名 10.9墨西哥my.txt 不一致，无法验证实际上传文件 SHA256。已停止，未创建计划、未修改或删除号码包。"
 }
