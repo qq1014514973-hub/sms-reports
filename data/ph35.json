@@ -1,5 +1,12 @@
 {
   "site": "PH35",
-  "report_time": "2026-10-16 15:33:33",
-  "persons": []
+  "report_time": "2026-10-17 全天",
+  "persons": [
+    {
+      "name": "威龙",
+      "send": 27435,
+      "l1_first_deposit": 19,
+      "l1_per10k": 6.9
+    }
+  ]
 }
