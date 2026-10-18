@@ -1,11 +1,12 @@
 {
-  "at": "2026-10-17T15:26:15+08:00",
+  "at": "2026-10-18T12:27:27+08:00",
   "round": "refresh",
   "jobs_done": [
-    "read_mx01_pack_upload_result"
+    "scan_telegram_report_groups"
   ],
   "jobs_failed": [
-    "mx01_pack_upload_validation"
+    "sync_world02ph",
+    "scan_remaining_sites"
   ],
-  "notes": "只读访问 /phone-packs/one-click 和 /phone-packs。任务 c9f72fec-5f87-45fd-9ffb-e6c28bc858bc 已生成 3 包：Unknown carrier 9994、Telcel 2、AT&T 1，实际合计 9997；与放行数量 9998 不一致。页面原文件名为 墨西哥_10000_yg.txt，与放行文件名 10.9墨西哥my.txt 不一致，无法验证实际上传文件 SHA256。已停止，未创建计划、未修改或删除号码包。"
+  "notes": "Telegram Web 显示多个站点存在 2026-10-18 新实时报表。WORLD02PH 最新报表为 2026-10-18 21:18:30，原图已临时下载并完成 OCR，但因本地 sms-reports 工作树存在未提交更改且 main 落后远端 9 个提交，脚本拒绝写入和推送，站点 JSON 保持不变。其余站点未完成下载/OCR；本轮未向 Telegram 发送消息。"
 }
