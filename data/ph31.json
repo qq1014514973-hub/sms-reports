@@ -1,18 +1,24 @@
 {
   "site": "PH31",
-  "report_time": "2026-10-16 全天",
+  "report_time": "2026-10-17 全天",
   "persons": [
     {
       "name": "阿木",
-      "send": 46054,
-      "l1_first_deposit": 20,
-      "l1_per10k": 4.3
+      "send": 56640,
+      "l1_first_deposit": 29,
+      "l1_per10k": 5.1
     },
     {
       "name": "莹莹",
-      "send": 83193,
-      "l1_first_deposit": 31,
-      "l1_per10k": 3.7
+      "send": 97176,
+      "l1_first_deposit": 39,
+      "l1_per10k": 4.0
+    },
+    {
+      "name": "威龙",
+      "send": 15881,
+      "l1_first_deposit": 4,
+      "l1_per10k": 2.5
     }
   ]
 }
