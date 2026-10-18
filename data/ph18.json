@@ -1,12 +1,12 @@
 {
   "site": "PH18",
-  "report_time": "2026-10-16 15:33:12",
+  "report_time": "2026-10-17 全天",
   "persons": [
     {
-      "name": "莹莹老后台",
-      "send": 0,
-      "l1_first_deposit": 1,
-      "l1_per10k": 0
+      "name": "威龙",
+      "send": 19967,
+      "l1_first_deposit": 10,
+      "l1_per10k": 5.0
     }
   ]
 }
