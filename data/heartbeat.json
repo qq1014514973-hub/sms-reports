@@ -1,12 +1,11 @@
 {
-  "at": "2026-10-18T12:27:27+08:00",
+  "at": "2026-10-19T04:10:02.015Z",
   "round": "refresh",
   "jobs_done": [
-    "scan_telegram_report_groups"
+    "repository_status_checked"
   ],
   "jobs_failed": [
-    "sync_world02ph",
-    "scan_remaining_sites"
+    "telegram_web_scan"
   ],
-  "notes": "Telegram Web 显示多个站点存在 2026-10-18 新实时报表。WORLD02PH 最新报表为 2026-10-18 21:18:30，原图已临时下载并完成 OCR，但因本地 sms-reports 工作树存在未提交更改且 main 落后远端 9 个提交，脚本拒绝写入和推送，站点 JSON 保持不变。其余站点未完成下载/OCR；本轮未向 Telegram 发送消息。"
+  "notes": "Computer Use stopped because it could not determine the current Chrome browser URL with enough confidence. No reports were processed; all site JSON files remain unchanged."
 }
