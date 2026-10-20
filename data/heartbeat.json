@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-19T04:10:02.015Z",
+  "at": "2026-10-20T04:09:00.179Z",
   "round": "refresh",
   "jobs_done": [
     "repository_status_checked"
@@ -7,5 +7,5 @@
   "jobs_failed": [
     "telegram_web_scan"
   ],
-  "notes": "Computer Use stopped because it could not determine the current Chrome browser URL with enough confidence. No reports were processed; all site JSON files remain unchanged."
+  "notes": "Computer Use stopped because it could not determine the current Chrome browser URL with enough confidence. Chrome exposed only AICRM/Douyin active windows, not an identifiable Telegram Web window. No reports were processed; all site JSON files remain unchanged."
 }
