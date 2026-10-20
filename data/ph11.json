@@ -1,12 +1,12 @@
 {
   "site": "PH11",
-  "report_time": "2026-10-17 全天",
+  "report_time": "2026-10-19 全天",
   "persons": [
     {
       "name": "红中",
-      "send": 8741,
+      "send": 19860,
       "l1_first_deposit": 3,
-      "l1_per10k": 3.4
+      "l1_per10k": 1.5
     }
   ]
 }
