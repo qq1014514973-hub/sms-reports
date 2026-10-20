@@ -1,12 +1,12 @@
 {
   "site": "PH31",
-  "report_time": "2026-10-18 全天",
+  "report_time": "2026-10-19 全天",
   "persons": [
     {
       "name": "莹莹",
-      "send": 96452,
-      "l1_first_deposit": 35,
-      "l1_per10k": 3.6
+      "send": 57263,
+      "l1_first_deposit": 26,
+      "l1_per10k": 4.5
     }
   ]
 }
