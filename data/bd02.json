@@ -1,12 +1,18 @@
 {
   "site": "BD02",
-  "report_time": "2026-10-17 全天",
+  "report_time": "2026-10-21 12:15:28",
   "persons": [
     {
+      "name": "小刀老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
       "name": "小刀",
-      "send": 80982,
-      "l1_first_deposit": 63,
-      "l1_per10k": 7.8
+      "send": 0,
+      "l1_first_deposit": 6,
+      "l1_per10k": 0
     }
   ]
 }
