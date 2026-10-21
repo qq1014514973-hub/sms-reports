@@ -1,12 +1,18 @@
 {
   "site": "BD18",
-  "report_time": "2026-10-16 全天",
+  "report_time": "2026-10-21 12:15:53",
   "persons": [
     {
-      "name": "阿咩",
-      "send": 20010,
-      "l1_first_deposit": 4,
-      "l1_per10k": 2.0
+      "name": "阿老后台",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "阿",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
     }
   ]
 }
