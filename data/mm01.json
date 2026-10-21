@@ -1,9 +1,15 @@
 {
   "site": "MM01",
-  "report_time": "2026-10-21 18:15:59",
+  "report_time": "2026-10-21 21:15:52",
   "persons": [
     {
       "name": "财财vb",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "红中",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
