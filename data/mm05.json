@@ -1,12 +1,12 @@
 {
   "site": "MM05",
-  "report_time": "2026-10-19 全天",
+  "report_time": "2026-10-21 12:16:08",
   "persons": [
     {
-      "name": "jackmm05",
-      "send": 129096,
-      "l1_first_deposit": 42,
-      "l1_per10k": 3.3
+      "name": "wtt689",
+      "send": 0,
+      "l1_first_deposit": 18,
+      "l1_per10k": 0
     }
   ]
 }
