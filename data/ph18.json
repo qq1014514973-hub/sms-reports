@@ -1,6 +1,6 @@
 {
   "site": "PH18",
-  "report_time": "2026-10-21 18:16:39",
+  "report_time": "2026-10-21 21:16:21",
   "persons": [
     {
       "name": "杰森老后台",
@@ -35,8 +35,8 @@
     {
       "name": "威龙",
       "send": 58509,
-      "l1_first_deposit": 9,
-      "l1_per10k": 1.5
+      "l1_first_deposit": 11,
+      "l1_per10k": 1.9
     }
   ]
 }
