@@ -1,5 +1,12 @@
 {
   "site": "WORLD02PH",
-  "report_time": "2026-10-21 12:16:57",
-  "persons": []
+  "report_time": "2026-10-21 18:17:35",
+  "persons": [
+    {
+      "name": "阿真",
+      "send": 5006,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    }
+  ]
 }
