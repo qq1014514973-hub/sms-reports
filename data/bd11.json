@@ -1,6 +1,6 @@
 {
   "site": "BD11",
-  "report_time": "2026-10-21 22:46:30",
+  "report_time": "2026-10-21 23:15:42",
   "persons": [
     {
       "name": "小刀",
@@ -11,7 +11,7 @@
     {
       "name": "又安",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
