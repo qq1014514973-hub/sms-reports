@@ -1,11 +1,33 @@
 {
-  "at": "2026-10-20T04:09:00.179Z",
+  "at": "2026-10-21T12:08:21+08:00",
   "round": "refresh",
   "jobs_done": [
-    "repository_status_checked"
+    "telegram_report_scan_28_sites",
+    "github_raw_sync_PK01",
+    "github_raw_sync_PH35",
+    "github_raw_sync_PH31",
+    "github_raw_sync_PH30",
+    "github_raw_sync_PK05",
+    "github_raw_sync_TH18",
+    "github_raw_sync_WORLD02PH",
+    "github_raw_sync_BD02",
+    "github_raw_sync_BD05",
+    "github_raw_sync_BD09",
+    "github_raw_sync_BD11",
+    "github_raw_sync_BD18",
+    "github_raw_sync_MM00",
+    "github_raw_sync_MM01",
+    "github_raw_sync_MM03",
+    "github_raw_sync_MM05",
+    "github_raw_sync_MM07",
+    "github_raw_sync_PH05",
+    "github_raw_sync_PH07",
+    "github_raw_sync_PH09",
+    "github_raw_sync_PH11",
+    "github_raw_sync_PH16",
+    "github_raw_sync_PH18",
+    "github_raw_sync_PH21"
   ],
-  "jobs_failed": [
-    "telegram_web_scan"
-  ],
-  "notes": "Computer Use stopped because it could not determine the current Chrome browser URL with enough confidence. Chrome exposed only AICRM/Douyin active windows, not an identifiable Telegram Web window. No reports were processed; all site JSON files remain unchanged."
+  "jobs_failed": [],
+  "notes": "已读取 28 个站点群；24 个站点发现完整新报表并完成 OCR、逐站提交和推送。PH01、PH33、MX01、PH25 未发现完整新报表，保持原 JSON 不变。报表图片仅用于本轮临时 OCR，未加入公共仓库。"
 }
