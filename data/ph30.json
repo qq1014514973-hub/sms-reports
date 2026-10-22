@@ -1,6 +1,6 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-22 12:46:34",
+  "report_time": "2026-10-22 17:17:41",
   "persons": [
     {
       "name": "大陈老后台",
@@ -10,6 +10,12 @@
     },
     {
       "name": "泡泡老后台",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "小发老后台",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
