@@ -1,29 +1,17 @@
 {
   "site": "PH09",
-  "report_time": "2026-10-21 23:46:33",
+  "report_time": "2026-10-22 12:16:13",
   "persons": [
-    {
-      "name": "张总",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
     {
       "name": "小木老后台",
       "send": 0,
-      "l1_first_deposit": 2,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
       "name": "大陈老后台",
       "send": 0,
       "l1_first_deposit": 1,
-      "l1_per10k": 0
-    },
-    {
-      "name": "阿炮老后台",
-      "send": 0,
-      "l1_first_deposit": 2,
       "l1_per10k": 0
     },
     {
