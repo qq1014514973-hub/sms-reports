@@ -1,13 +1,7 @@
 {
   "site": "PH07",
-  "report_time": "2026-10-21 23:46:26",
+  "report_time": "2026-10-22 12:16:10",
   "persons": [
-    {
-      "name": "基挖",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
     {
       "name": "基挖老后台",
       "send": 0,
