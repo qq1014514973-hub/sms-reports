@@ -1,6 +1,6 @@
 {
   "site": "PH11",
-  "report_time": "2026-10-22 19:18:13",
+  "report_time": "2026-10-22 19:48:16",
   "persons": [
     {
       "name": "mark",
@@ -11,8 +11,8 @@
     {
       "name": "红中",
       "send": 19703,
-      "l1_first_deposit": 2,
-      "l1_per10k": 1
+      "l1_first_deposit": 6,
+      "l1_per10k": 3
     }
   ]
 }
