@@ -1,11 +1,11 @@
 {
   "site": "PH16",
-  "report_time": "2026-10-22 17:17:17",
+  "report_time": "2026-10-22 17:47:58",
   "persons": [
     {
       "name": "啊发老后台",
       "send": 0,
-      "l1_first_deposit": 2,
+      "l1_first_deposit": 3,
       "l1_per10k": 0
     }
   ]
