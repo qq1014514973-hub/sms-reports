@@ -1,6 +1,6 @@
 {
   "site": "PH05",
-  "report_time": "2026-10-22 21:47:48",
+  "report_time": "2026-10-22 20:48:04",
   "persons": [
     {
       "name": "张总",
@@ -11,7 +11,7 @@
     {
       "name": "jeff老后台",
       "send": 0,
-      "l1_first_deposit": 1,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
