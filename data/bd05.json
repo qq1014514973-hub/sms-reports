@@ -1,11 +1,11 @@
 {
   "site": "BD05",
-  "report_time": "2026-10-22 13:16:07",
+  "report_time": "2026-10-22 17:16:07",
   "persons": [
     {
       "name": "小刀",
       "send": 0,
-      "l1_first_deposit": 1,
+      "l1_first_deposit": 2,
       "l1_per10k": 0
     },
     {
