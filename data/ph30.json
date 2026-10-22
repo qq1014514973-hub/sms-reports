@@ -1,27 +1,15 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-22 12:35:35",
+  "report_time": "2026-10-22 12:46:34",
   "persons": [
     {
-      "name": "jeff",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "小木",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "威龙",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
       "name": "大陈老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "泡泡老后台",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
@@ -33,7 +21,7 @@
       "l1_per10k": 0
     },
     {
-      "name": "泡泡老后台",
+      "name": "威龙",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
