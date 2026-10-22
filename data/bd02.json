@@ -1,11 +1,11 @@
 {
   "site": "BD02",
-  "report_time": "2026-10-22 18:46:32",
+  "report_time": "2026-10-22 19:16:30",
   "persons": [
     {
       "name": "小刀老后台",
       "send": 0,
-      "l1_first_deposit": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     },
     {
