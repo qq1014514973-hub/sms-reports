@@ -1,6 +1,6 @@
 {
   "site": "BD05",
-  "report_time": "2026-10-21 23:45:33",
+  "report_time": "2026-10-22 12:15:34",
   "persons": [
     {
       "name": "小刀",
@@ -11,7 +11,7 @@
     {
       "name": "小刀老后台",
       "send": 0,
-      "l1_first_deposit": 1,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     }
   ]
