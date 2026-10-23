@@ -1,12 +1,12 @@
 {
   "site": "MX01",
-  "report_time": "2026-10-21 全天",
+  "report_time": "2026-10-22 全天",
   "persons": [
     {
       "name": "阿木",
-      "send": 20000,
-      "l1_first_deposit": 2,
-      "l1_per10k": 1.0
+      "send": 3,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
     }
   ]
 }
