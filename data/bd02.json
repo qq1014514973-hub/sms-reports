@@ -1,6 +1,6 @@
 {
   "site": "BD02",
-  "report_time": "2026-10-23 14:45:32",
+  "report_time": "2026-10-23 15:45:31",
   "persons": [
     {
       "name": "杰森",
@@ -16,9 +16,9 @@
     },
     {
       "name": "小刀",
-      "send": 0,
+      "send": 10000,
       "l1_first_deposit": 7,
-      "l1_per10k": 0
+      "l1_per10k": 7
     }
   ]
 }
