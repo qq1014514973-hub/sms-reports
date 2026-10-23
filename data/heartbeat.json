@@ -1,33 +1,17 @@
 {
-  "at": "2026-10-21T12:08:21+08:00",
-  "round": "refresh",
+  "at": "2026-10-23T12:43:57+08:00",
+  "round": "daily",
   "jobs_done": [
-    "telegram_report_scan_28_sites",
-    "github_raw_sync_PK01",
-    "github_raw_sync_PH35",
-    "github_raw_sync_PH31",
-    "github_raw_sync_PH30",
-    "github_raw_sync_PK05",
-    "github_raw_sync_TH18",
-    "github_raw_sync_WORLD02PH",
-    "github_raw_sync_BD02",
-    "github_raw_sync_BD05",
-    "github_raw_sync_BD09",
-    "github_raw_sync_BD11",
-    "github_raw_sync_BD18",
-    "github_raw_sync_MM00",
-    "github_raw_sync_MM01",
-    "github_raw_sync_MM03",
-    "github_raw_sync_MM05",
-    "github_raw_sync_MM07",
-    "github_raw_sync_PH05",
-    "github_raw_sync_PH07",
-    "github_raw_sync_PH09",
-    "github_raw_sync_PH11",
-    "github_raw_sync_PH16",
-    "github_raw_sync_PH18",
-    "github_raw_sync_PH21"
+    "PK01 2026-10-23 12:17:20",
+    "BD02 2026-10-23 12:16:01",
+    "BD09 2026-10-23 12:16:12"
   ],
-  "jobs_failed": [],
-  "notes": "已读取 28 个站点群；24 个站点发现完整新报表并完成 OCR、逐站提交和推送。PH01、PH33、MX01、PH25 未发现完整新报表，保持原 JSON 不变。报表图片仅用于本轮临时 OCR，未加入公共仓库。"
+  "jobs_failed": [
+    "PH35: Telegram 页面未完成群切换",
+    "PH31: Telegram 页面未完成群切换",
+    "BD05: Telegram 页面控制超时",
+    "MM00/MM01/MM03/MM05/MM07: Telegram 页面未完成群切换",
+    "PH05/PH07/PH09/PH11/PH16/PH18/PH21/WORLD02PH/PK05/TH18: Telegram 页面未完成群切换"
+  ],
+  "notes": "PH01、PH33、MX01、PH25 未读到完整新实时报表，现有 JSON 保持不变。核对 GitHub 时发现 BD11、BD18、PH30 已由并行运行更新到 2026-10-23。报表原图仅存本轮系统临时目录，未加入仓库；本轮结束清理。"
 }
