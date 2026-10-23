@@ -1,9 +1,21 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-23 13:47:01",
+  "report_time": "2026-10-23 13:56:53",
   "persons": [
     {
+      "name": "大陈",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
       "name": "大陈老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "小木",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
