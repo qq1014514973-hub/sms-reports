@@ -1,11 +1,11 @@
 {
   "site": "MM05",
-  "report_time": "2026-10-23 13:46:28",
+  "report_time": "2026-10-23 14:16:46",
   "persons": [
     {
       "name": "wtt689",
       "send": 0,
-      "l1_first_deposit": 10,
+      "l1_first_deposit": 11,
       "l1_per10k": 0
     }
   ]
