@@ -1,12 +1,12 @@
 {
   "site": "PH35",
-  "report_time": "2026-10-22 22:18:22",
+  "report_time": "2026-10-23 12:47:05",
   "persons": [
     {
       "name": "威龙",
-      "send": 193188,
-      "l1_first_deposit": 129,
-      "l1_per10k": 6.7
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
     }
   ]
 }
