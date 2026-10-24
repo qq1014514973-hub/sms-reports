@@ -1,6 +1,6 @@
 {
   "site": "PH18",
-  "report_time": "2026-10-24 09:42:07",
+  "report_time": "2026-10-24 14:08:59",
   "persons": [
     {
       "name": "杰森老后台",
@@ -15,7 +15,19 @@
       "l1_per10k": 0
     },
     {
+      "name": "jeff老后台",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
       "name": "莹莹老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "威龙",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
