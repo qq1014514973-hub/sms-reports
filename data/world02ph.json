@@ -1,16 +1,10 @@
 {
   "site": "WORLD02PH",
-  "report_time": "2026-10-24 14:09:34",
+  "report_time": "2026-10-26 全天",
   "persons": [
     {
-      "name": "张总",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
       "name": "阿真",
-      "send": 4857,
+      "send": 4684,
       "l1_first_deposit": 0,
       "l1_per10k": 0
     }
