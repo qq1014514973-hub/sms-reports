@@ -1,18 +1,12 @@
 {
   "site": "MM00",
-  "report_time": "2026-10-24 14:08:31",
+  "report_time": "2026-10-26 全天",
   "persons": [
     {
-      "name": "财财",
-      "send": 186963,
-      "l1_first_deposit": 17,
-      "l1_per10k": 0.9
-    },
-    {
-      "name": "阿西",
-      "send": 0,
-      "l1_first_deposit": 1,
-      "l1_per10k": 0
+      "name": "MM00",
+      "send": 356174,
+      "l1_first_deposit": 83,
+      "l1_per10k": 2.3
     }
   ]
 }
