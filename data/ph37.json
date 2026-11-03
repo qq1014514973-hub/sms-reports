@@ -1,12 +1,12 @@
 {
   "site": "PH37",
-  "report_time": "2026-11-01 全天",
+  "report_time": "2026-11-02 全天",
   "persons": [
     {
-      "name": "威龙",
-      "send": 139859,
-      "l1_first_deposit": 18,
-      "l1_per10k": 1.3
+      "name": "财财",
+      "send": 6965442,
+      "l1_first_deposit": 12,
+      "l1_per10k": 0
     }
   ]
 }
