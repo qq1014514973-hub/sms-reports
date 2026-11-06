@@ -1,12 +1,12 @@
 {
   "site": "PH22",
-  "report_time": "2026-11-03 全天",
+  "report_time": "2026-11-05 全天",
   "persons": [
     {
       "name": "蛙声",
-      "send": 4000,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
+      "send": 11000,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0.9
     }
   ]
 }
