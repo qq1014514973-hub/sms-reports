@@ -1,12 +1,12 @@
 {
   "site": "MM07",
-  "report_time": "2026-11-04 全天",
+  "report_time": "2026-11-05",
   "persons": [
     {
-      "name": "mm07AFRICAN",
-      "send": 279015,
-      "l1_first_deposit": 35,
-      "l1_per10k": 1.3
+      "name": "jackdx（含下级03dxyyy06）",
+      "send": 182344,
+      "l1_first_deposit": 191,
+      "l1_per10k": 5.92
     }
   ]
 }
