@@ -1,12 +1,24 @@
 {
   "site": "MM00",
-  "report_time": "2026-11-04 全天",
+  "report_time": "2026-11-06 全天",
   "persons": [
     {
-      "name": "MM00",
-      "send": 379301,
-      "l1_first_deposit": 138,
-      "l1_per10k": 3.6
+      "name": "cc00dx",
+      "send": 247376,
+      "l1_first_deposit": 35,
+      "l1_per10k": 1.4
+    },
+    {
+      "name": "jackdx",
+      "send": 116014,
+      "l1_first_deposit": 70,
+      "l1_per10k": 6
+    },
+    {
+      "name": "jackdx1",
+      "send": 69747,
+      "l1_first_deposit": 17,
+      "l1_per10k": 2.4
     }
   ]
 }
