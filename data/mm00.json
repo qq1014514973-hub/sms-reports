@@ -1,24 +1,72 @@
 {
   "site": "MM00",
-  "report_time": "2026-11-06 全天",
+  "report_time": "2026-11-05",
   "persons": [
     {
-      "name": "cc00dx",
-      "send": 247376,
-      "l1_first_deposit": 35,
-      "l1_per10k": 1.4
+      "name": "caicai00dx261013",
+      "send": 111413,
+      "l1_first_deposit": 22,
+      "l1_per10k": 2.51
     },
     {
-      "name": "jackdx",
-      "send": 116014,
-      "l1_first_deposit": 70,
-      "l1_per10k": 6
+      "name": "mm00jack11",
+      "send": 4986,
+      "l1_first_deposit": 1,
+      "l1_per10k": 2.01
     },
     {
-      "name": "jackdx1",
-      "send": 69747,
-      "l1_first_deposit": 17,
-      "l1_per10k": 2.4
+      "name": "mm00jack12",
+      "send": 33692,
+      "l1_first_deposit": 14,
+      "l1_per10k": 4.16
+    },
+    {
+      "name": "mm00caicai08",
+      "send": 51922,
+      "l1_first_deposit": 5,
+      "l1_per10k": 0.96
+    },
+    {
+      "name": "mm00caicai09",
+      "send": 25920,
+      "l1_first_deposit": 7,
+      "l1_per10k": 3.09
+    },
+    {
+      "name": "mm00jack02",
+      "send": 17536,
+      "l1_first_deposit": 10,
+      "l1_per10k": 10.83
+    },
+    {
+      "name": "mm00caicai07",
+      "send": 11201,
+      "l1_first_deposit": 2,
+      "l1_per10k": 1.79
+    },
+    {
+      "name": "mm00caicai22",
+      "send": 284275,
+      "l1_first_deposit": 26,
+      "l1_per10k": 0.98
+    },
+    {
+      "name": "mm00caicai27",
+      "send": 538,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "jackmm00",
+      "send": 64529,
+      "l1_first_deposit": 30,
+      "l1_per10k": 6.97
+    },
+    {
+      "name": "mm00caicai06",
+      "send": 12580,
+      "l1_first_deposit": 3,
+      "l1_per10k": 2.38
     }
   ]
 }
