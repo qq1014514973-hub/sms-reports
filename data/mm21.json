@@ -1,12 +1,42 @@
 {
   "site": "MM21",
-  "report_time": "2026-10-14 全天",
+  "report_time": "2026-11-08",
   "persons": [
     {
-      "name": "MM21",
-      "send": 37390,
-      "l1_first_deposit": 5,
-      "l1_per10k": 1.3
+      "name": "mm00jili01",
+      "send": 13264,
+      "l1_first_deposit": 2,
+      "l1_per10k": 2.26
+    },
+    {
+      "name": "mm00jili02",
+      "send": 13694,
+      "l1_first_deposit": 2,
+      "l1_per10k": 1.46
+    },
+    {
+      "name": "mm00jili03",
+      "send": 10468,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0.96
+    },
+    {
+      "name": "mm00jili04",
+      "send": 10516,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "mm00jili06",
+      "send": 731,
+      "l1_first_deposit": 3,
+      "l1_per10k": 41.04
+    },
+    {
+      "name": "mm00jili07",
+      "send": 24712,
+      "l1_first_deposit": 1,
+      "l1_per10k": 1.21
     }
   ]
 }
