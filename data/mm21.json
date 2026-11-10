@@ -1,42 +1,18 @@
 {
   "site": "MM21",
-  "report_time": "2026-11-08",
+  "report_time": "2026-11-09",
   "persons": [
-    {
-      "name": "mm00jili01",
-      "send": 13264,
-      "l1_first_deposit": 2,
-      "l1_per10k": 2.26
-    },
-    {
-      "name": "mm00jili02",
-      "send": 13694,
-      "l1_first_deposit": 2,
-      "l1_per10k": 1.46
-    },
-    {
-      "name": "mm00jili03",
-      "send": 10468,
-      "l1_first_deposit": 1,
-      "l1_per10k": 0.96
-    },
-    {
-      "name": "mm00jili04",
-      "send": 10516,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "mm00jili06",
-      "send": 731,
-      "l1_first_deposit": 3,
-      "l1_per10k": 41.04
-    },
-    {
-      "name": "mm00jili07",
-      "send": 24712,
-      "l1_first_deposit": 1,
-      "l1_per10k": 1.21
-    }
+    {"name": "jackdx", "send": 172, "l1_first_deposit": 0, "l1_per10k": 0},
+    {"name": "cc21dx", "send": 4414, "l1_first_deposit": 4, "l1_per10k": 13.59},
+    {"name": "mm00jili01", "send": 50140, "l1_first_deposit": 17, "l1_per10k": 3.79},
+    {"name": "mm00jili02", "send": 48592, "l1_first_deposit": 4, "l1_per10k": 1.03},
+    {"name": "mm00jili03", "send": 59707, "l1_first_deposit": 3, "l1_per10k": 0.67},
+    {"name": "mm00jili04", "send": 64733, "l1_first_deposit": 6, "l1_per10k": 0.93},
+    {"name": "mm00jili05", "send": 97956, "l1_first_deposit": 5, "l1_per10k": 0.61},
+    {"name": "mm00jili06", "send": 79796, "l1_first_deposit": 11, "l1_per10k": 1.63},
+    {"name": "mm00jili07", "send": 80572, "l1_first_deposit": 8, "l1_per10k": 1.12},
+    {"name": "mm00jili08", "send": 48706, "l1_first_deposit": 6, "l1_per10k": 1.44},
+    {"name": "mm00jili09", "send": 75052, "l1_first_deposit": 7, "l1_per10k": 0.93},
+    {"name": "mm00jili10", "send": 61364, "l1_first_deposit": 1, "l1_per10k": 0.16}
   ]
 }
