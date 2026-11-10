@@ -1,12 +1,7 @@
 {
   "site": "world02ph",
-  "report_time": "2026-11-08 全天",
+  "report_time": "2026-11-09 全天",
   "persons": [
-    {
-      "name": "阿真",
-      "send": 4331,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    }
+    {"name": "阿真", "send": 2943, "l1_first_deposit": 0, "l1_per10k": 0}
   ]
 }
