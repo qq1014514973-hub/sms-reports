@@ -1,24 +1,9 @@
 {
   "site": "MM00",
-  "report_time": "2026-11-08",
+  "report_time": "2026-11-09",
   "persons": [
-    {
-      "name": "cc00dx",
-      "send": 112670,
-      "l1_first_deposit": 22,
-      "l1_per10k": 2.66
-    },
-    {
-      "name": "yusen02",
-      "send": 7166,
-      "l1_first_deposit": 2,
-      "l1_per10k": 2.79
-    },
-    {
-      "name": "jackdx",
-      "send": 13204,
-      "l1_first_deposit": 65,
-      "l1_per10k": 62.86
-    }
+    {"name": "cc00dx", "send": 98678, "l1_first_deposit": 19, "l1_per10k": 2.23},
+    {"name": "yusen02", "send": 16706, "l1_first_deposit": 2, "l1_per10k": 1.2},
+    {"name": "jackdx", "send": 122347, "l1_first_deposit": 45, "l1_per10k": 4.58}
   ]
 }
