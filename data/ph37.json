@@ -1,11 +1,59 @@
 {
   "site": "PH37",
-  "report_time": "2026-11-02 全天",
+  "report_time": "2026-11-15 22:45:55",
   "persons": [
     {
+      "name": "37ccdx03",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "37caicaidx",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
       "name": "财财",
-      "send": 6965442,
-      "l1_first_deposit": 12,
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph37lu05",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph37lu03",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph37lu02",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph37lu04",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "威龙",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "宇森",
+      "send": 141624,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     }
   ]
