@@ -1,7 +1,103 @@
 {
   "site": "PH30",
-  "report_time": "2026-10-24 14:09:08",
+  "report_time": "2026-11-15 23:50:11",
   "persons": [
+    {
+      "name": "ph30pf19",
+      "send": 0,
+      "l1_first_deposit": 149,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf26",
+      "send": 0,
+      "l1_first_deposit": 98,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf29",
+      "send": 0,
+      "l1_first_deposit": 29,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf21",
+      "send": 0,
+      "l1_first_deposit": 24,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf24",
+      "send": 0,
+      "l1_first_deposit": 22,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf30",
+      "send": 0,
+      "l1_first_deposit": 12,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf23",
+      "send": 0,
+      "l1_first_deposit": 13,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf31",
+      "send": 0,
+      "l1_first_deposit": 18,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf09",
+      "send": 0,
+      "l1_first_deposit": 7,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf06",
+      "send": 0,
+      "l1_first_deposit": 3,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30tc26",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30bx01",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30tc28",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf11",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30smsdx",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf17",
+      "send": 0,
+      "l1_first_deposit": 3,
+      "l1_per10k": 0
+    },
     {
       "name": "大陈老后台",
       "send": 0,
@@ -9,25 +105,43 @@
       "l1_per10k": 0
     },
     {
-      "name": "杰森老后台",
+      "name": "ph30pf05",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30tc29",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
-      "name": "泡泡",
+      "name": "ph30tc25",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
-      "name": "泡泡老后台",
+      "name": "ph30pf04",
+      "send": 0,
+      "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "xiaomuph300",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf01",
       "send": 0,
       "l1_first_deposit": 1,
       "l1_per10k": 0
     },
     {
-      "name": "小发老后台",
+      "name": "ph30pf03",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
@@ -39,7 +153,67 @@
       "l1_per10k": 0
     },
     {
-      "name": "威龙",
+      "name": "ph30bx03",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "泡泡老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "泡泡",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf15",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf10",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "jeffph300",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30bx05",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30bx02",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf02",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30pf12",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph30sms02",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
