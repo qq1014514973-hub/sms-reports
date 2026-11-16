@@ -1,17 +1,71 @@
 {
   "site": "PH05",
-  "report_time": "2026-10-24 14:08:44",
+  "report_time": "2026-11-15 23:49:54",
   "persons": [
     {
-      "name": "张总",
+      "name": "ph05zddx",
+      "send": 0,
+      "l1_first_deposit": 21,
+      "l1_per10k": 0
+    },
+    {
+      "name": "evoph01888",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "yoyo老后台",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "lily05dx",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "jfjeffj",
       "send": 0,
       "l1_first_deposit": 2,
+      "l1_per10k": 0
+    },
+    {
+      "name": "yoyo05dx",
+      "send": 0,
+      "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
       "name": "jeff老后台",
       "send": 0,
       "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "莹莹老后台",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "ph05app48",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "jeff05dx",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "张总",
+      "send": 0,
+      "l1_first_deposit": 1,
       "l1_per10k": 0
     }
   ]
