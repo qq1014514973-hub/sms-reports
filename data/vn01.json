@@ -1,0 +1,18 @@
+{
+  "site": "VN01",
+  "report_time": "2026-11-15 23:52:09",
+  "persons": [
+    {
+      "name": "多多",
+      "send": 29379,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "vn01sms00",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    }
+  ]
+}
