@@ -1,7 +1,36 @@
 {
   "site": "PH35",
-  "report_time": "2026-11-09 全天",
+  "report_time": "2026-11-15 23:51:36",
   "persons": [
-    {"name": "威龙", "send": 29627, "l1_first_deposit": 8, "l1_per10k": 2.7}
+    {
+      "name": "mpdxwl",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "威龙",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "小K",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "小财财",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "mpfeng01",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    }
   ]
 }
