@@ -1,21 +1,51 @@
 {
   "site": "PH31",
-  "report_time": "2026-11-15 23:50:26",
+  "report_time": "2026-11-16 23:49:42",
   "persons": [
     {
       "name": "dxph31",
       "send": 0,
-      "l1_first_deposit": 20,
+      "l1_first_deposit": 56,
       "l1_per10k": 0
     },
     {
       "name": "威龙",
-      "send": 26806,
-      "l1_first_deposit": 20,
-      "l1_per10k": 7.5
+      "send": 119449,
+      "l1_first_deposit": 53,
+      "l1_per10k": 4.4
+    },
+    {
+      "name": "yinyinph31261013",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "xiaokph311",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "paopaoph31",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
     },
     {
       "name": "yinyinph31",
+      "send": 0,
+      "l1_first_deposit": 1,
+      "l1_per10k": 0
+    },
+    {
+      "name": "dchengph31",
+      "send": 0,
+      "l1_first_deposit": 0,
+      "l1_per10k": 0
+    },
+    {
+      "name": "xiaodaoph31",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
@@ -27,25 +57,19 @@
       "l1_per10k": 0
     },
     {
-      "name": "xiaokph311",
+      "name": "caicaiph31",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
-      "name": "dchengph31",
+      "name": "aweiph311",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
     },
     {
-      "name": "paopaoph31",
-      "send": 0,
-      "l1_first_deposit": 0,
-      "l1_per10k": 0
-    },
-    {
-      "name": "xiaodaoph31",
+      "name": "amuph31261013",
       "send": 0,
       "l1_first_deposit": 0,
       "l1_per10k": 0
