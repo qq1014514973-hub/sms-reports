@@ -1,12 +1,12 @@
 {
   "site": "VN01",
-  "report_time": "2026-11-18 全天",
+  "report_time": "2026-11-19 全天",
   "persons": [
     {
       "name": "多多",
-      "send": 25828,
-      "l1_first_deposit": 15,
-      "l1_per10k": 5.8
+      "send": 17627,
+      "l1_first_deposit": 19,
+      "l1_per10k": 10.8
     }
   ]
 }
